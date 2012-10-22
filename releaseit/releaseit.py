@@ -119,7 +119,7 @@ def prepare_data(release_commit, commits_iter, summary, conf):
 
     def get_diff_url(path, c):
         path = path or ""
-        return "%s/diff/%s/?id2=%s" % (repo_url, path, c.hexsha)
+        return "%s/diff/%s/?id=%s" % (repo_url, path, c.hexsha)
 
     dict = {}
     dict['project'] = conf['project']

@@ -1,0 +1,274 @@
+SFEXPORT,v1.2
+ID=1
+NAME=Morning Star
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Morning Star */
+
+close is above open
+and close 1 day ago is above open 1 day ago
+and close 2 days ago is below open 2 days ago
+and high 1 day ago is below low 2 days ago
+and open is above close 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is below 20
+and Stochastic(10, 3, 3) %D is below 20
+FILTER_TEXT_END
+ID=2
+NAME=Evening Star
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Evening Star */
+
+close is below open
+and close 1 day ago is above open 1 day ago
+and close 2 days ago is above open 2 days ago
+and open 1 day ago is above close 2 days ago
+and open is below open 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is above 80
+and Stochastic(10, 3, 3) %D is above 80
+FILTER_TEXT_END
+ID=3
+NAME=Piercing Pattern
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Piercing Pattern */
+
+close is above open
+and close 1 day ago is below open 1 day ago
+and open is below low 1 day ago
+and close above day position(0.5,1) 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is below 20
+and Stochastic(10, 3, 3) %D is below 20
+FILTER_TEXT_END
+ID=4
+NAME=Dark Cloud
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Dark Cloud */
+
+close 1 day ago above open 1 day ago
+and open above close
+and open above high 1 day ago
+and close below day position(0.5,1) 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is above 80
+and Stochastic(10, 3, 3) %D is above 80
+FILTER_TEXT_END
+ID=5
+NAME=Bearish Engulfing
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Bearish Engulfing */
+
+close is below open
+and close 1 day ago is above open 1 day ago
+and close is below open 1 day ago
+and open is above close 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is above 80
+and Stochastic(10, 3, 3) %D is above 80
+FILTER_TEXT_END
+ID=6
+NAME=Bearish Kicker
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Bearish Kicker */
+
+close 1 day ago above open 1 day ago
+and close below open
+and open equals open 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is above 80
+and Stochastic(10, 3, 3) %D is above 80
+FILTER_TEXT_END
+ID=7
+NAME=Bearish Harami
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Bearish Harami (NYSE Stocks Only) */
+
+set{body_bottom, min(open,close)}
+set{body_top, max(open,close)}
+close 1 day ago above open 1 day ago
+and low 1 day ago above low 2 days ago
+and low 2 days ago above low 3 days ago
+and high 1 day ago above high 2 days ago
+and high 2 days ago above high 3 days ago
+and close below open
+and close above body_bottom 1 day ago
+and close below body_top 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is above 80
+and Stochastic(10, 3, 3) %D is above 80
+
+FILTER_TEXT_END
+ID=8
+NAME=Bullish Engulfing
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Bullish Engulfing */
+
+close is above open
+and close 1 day ago is below open 1 day ago
+and close is above open 1 day ago
+and open is below close 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is below 20
+and Stochastic(10, 3, 3) %D is below 20
+FILTER_TEXT_END
+ID=9
+NAME=Bullish Harami
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Bullish Harami */
+
+set{body_bottom, min(open,close)}
+set{body_top, max(open,close)}
+close 1 day ago below open 1 day ago
+and low 1 day ago below low 2 days ago
+and low 2 days ago below low 3 days ago
+and close 1 day ago below close 2 days ago
+and close 2 days ago below close 3 days ago
+and high 1 day ago below high 2 days ago
+and high 2 days ago below high 3 days ago
+and close above open
+and close above body_bottom 1 day ago
+and close below body_top 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is below 20
+and Stochastic(10, 3, 3) %D is below 20
+FILTER_TEXT_END
+ID=10
+NAME=Doji
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Doji */
+
+close equals open 
+and close is above 10.00 
+and average volume(30) is above 500000   
+
+FILTER_TEXT_END
+ID=11
+NAME=Bullish Kicker
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Bullish Kicker */
+
+close 1 day ago below open 1 day ago
+and close above open
+and open equals open 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is below 20
+and Stochastic(10, 3, 3) %D is below 20
+FILTER_TEXT_END
+ID=12
+NAME=Gravestone Doji
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Gravestone Doji */
+
+close minus open is between -0.01
+and 0.01
+and close minus low is below 0.01
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is above 80
+and Stochastic(10, 3, 3) %D is above 80
+FILTER_TEXT_END
+ID=13
+NAME=Long-legged Doji
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Long-legged Doji */
+
+close equals open 
+and high is more than 2% above low 
+and close is above 10.00 
+and average volume(30) is above 500000   
+
+FILTER_TEXT_END
+ID=14
+NAME=Shooting Star
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Shooting Star */
+
+set{body_bottom,min(open,close)}
+set{body_top,max(open,close)}
+set{lshadowsize, body_bottom - low}
+set{tshadowsize, high - body_top}
+set{tshadowsize2, tshadowsize * 2}
+set{body_size, body_top - body_bottom}
+show stocks where lshadowsize is less than 0.001
+and tshadowsize2 greater than body_size
+and close increasing for the last 3 days
+and body_bottom greater than close 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is above 80
+and Stochastic(10, 3, 3) %D is above 80
+FILTER_TEXT_END
+ID=15
+NAME=Hammer
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Hammer */
+
+set{btop,max(open,close)}
+set{bbot,min(open,close)}
+high minus btop is below 0.01
+and bbot is above day position(0.65,1)
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is above 80
+and Stochastic(10, 3, 3) %D is above 80
+FILTER_TEXT_END
+ID=16
+NAME=Inverted Hammer
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Inverted Hammer */
+
+set{body_bottom,min(open,close)}
+set{body_top,max(open,close)}
+set{lshadowsize, body_bottom - low}
+set{tshadowsize, high - body_top}
+set{body_size, body_top - body_bottom}
+set{body_size2, body_size * 2}
+show stocks where lshadowsize is less than 0.001
+and tshadowsize greater than body_size2
+and close decreasing for the last 3 days
+and body_top less than close 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is above 80
+and Stochastic(10, 3, 3) %D is above 80
+FILTER_TEXT_END
+ID=17
+NAME=Dark Cloud Cover
+USE_GLOBAL=1
+FILTER_TEXT_START
+/* Dark Cloud Cover */
+
+close is below open
+and close 1 day ago is above open 1 day ago
+and open is above high 1 day ago
+and close is above 10.00
+and average volume(30) is above 500000
+and Stochastic(10, 3, 3) %K is above 80
+and Stochastic(10, 3, 3) %D is above 80
+FILTER_TEXT_END

@@ -1,0 +1,1823 @@
+Symbol	Description
+AA.P	Alcoa Inc.
+AAC	Ableauctions.Com Inc
+AAU	Almaden Minerals Ltd.
+ABL	American Biltrite Inc.
+ACU	Acme United Corporation.
+ACY	AeroCentury Corp.
+ADG	Allied Defense Group (The)
+ADH	Adherex Technologies Inc
+ADJ	Morgan Stanley
+ADK	Adcare Health Systems Inc
+ADK.W	Adcare Health Systems Inc
+ADL	AMDL INC
+ADY	Merrill Lynch & Co., Inc.
+ADZ	DB AGRICUL SHORT ETN
+AE	Adams Resources & Energy Inc.
+AEN	Austral Pacific Energy Ltd.
+AEX	NETS AEX INDEX FUND
+AEZ	American Oil & Gas Inc.
+AFK	MV AFRICA ETF
+AFO	Safety First Trust
+AFP	United Capital Corporation
+AFT	Axesstel Inc
+AGA	DB AGRI DBL SHRT ETN
+AGB	Citigroup Inc.
+AGF	DB AGRI LONG ETN
+AGG	Ishares Lehman Aggregate Bond Fund
+AGQ	PROSHARES
+AGT	Apollo Gold Corporation
+AGX	Argan Inc.
+AGZ	ISHARES
+AHB	12% SPARQS LINKED TO ARCH COAL
+AHY	MS APPLE SPARQS
+AIA	American Insured Mortgage Investors
+AIM	Aerosonic Corporation
+AIP	American Israeli Paper Mills Ltd.
+AIS	Antares Pharma Inc.
+AKE	Safety First Trust
+AKN	Safety First Trust
+AMK	Morgan Stanley
+AMM	Safety First Trust
+AMO	MERRILL LYNCH
+AMS	American Shared Hospital Services
+AMV	Alternative Asset Management Acquisition Corp
+AMV.U	Alternative Asset Management Acquisition Corp
+AMV.W	Alternative Asset Management Acquisition Corp
+ANO	Anooraq Resources Corporation
+ANV	Allied Nevada Gold Corp
+ANX	ADVENTRX Pharmaceuticals Inc.
+ANY	Morgan Stanley
+AOA	ISHARES
+AOF	Morgan Stanley
+AOG	Aurora Oil & Gas Corporation
+AOK	ISHARES
+AOM	ANORMED INC
+AOR	ISHARES
+API	Advanced Photonix Inc.
+APO	American Community Properties Trust
+APP	American Apparel Inc
+APT	Alpha Pro Tech Ltd.
+APY	Aspyra  Inc.
+AQQ	American Spectrum Realty Inc.
+AQS	ADELANTE SHS SHELTER
+ASB	Ascendia Brands, Inc
+ASO	AIRSHARES EU CARBON
+ASY	Elecsys Corporation
+ATA	Safety First Trust
+ATC	Cycle Country Accessories Corporation
+AUS	NETS Trust
+AVN	Morgan Stanley
+AWX	Avalon Holdings Corporation
+AXC	Advanced Technology Acquisition Corp
+AXC.U	Advanced Technology Acquisition Corp
+AXC.W	Advanced Technology Acquisition Corp
+AXD	Merrill Lynch & Co. Inc.
+AXF	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+AXG	Atlas Acquisition Holdings Corp
+AXG.U	Atlas Acquisition Holdings Corp
+AXG.W	Atlas Acquisition Holdings Corp
+AXK	Accelr8 Technology Corporation
+AXT	MERRILL LYNCH
+AXU	Alexco Resource Corp
+AYA	Alyst Acquisition Corp
+AYA.U	Alyst Acquisition Corp
+AYA.W	Alyst Acquisition Corp
+AYT	BARCLAYS GEMS ASIA-8
+AZC	Augusta Resource Corporation
+AZK	Aurizon Mines Ltd.
+AZP	Safety First Trust
+BAA	BANRO CORPORATION
+BAA.W	BANRO CORPORATION
+BAL	IPATH DJ-AIG COTTON
+BBH	Merrill Lynch Biotech HOLDRS
+BCL	BlackRock California Municipal Income Trust II
+BCT	BlackRock Broad Investment Grade 2009 Term Trust Inc. (The)
+BCU	Merrill Lynch & Co. Inc.
+BCV	Bancroft Convertible Fund Inc.
+BDD	POWERSHARES DB BASE
+BDG	POWERSHARES DB BASE
+BDH	Merrill Lynch Broadband HOLDRS
+BDL	Flanigan's Enterprises Inc.
+BDR	Blonder Tongue Laboratories Inc.
+BEJ	CITIGROUP FDG INC
+BFN	Merrill Lynch & Co. Inc.
+BFY	BlackRock New York Municipal Income Trust II
+BGD	Morgan Stanley Dean Witter & Co.
+BGU	LARGE CAP BULL 3X
+BGZ	LARGE CAP BEAR 3X
+BHB	Bar Harbor Bankshares Inc.
+BHH	Merrill Lynch B2B Internet HOLDRS
+BHO	B+H Ocean Carriers Ltd.
+BHV	BlackRock Virginia Municipal Bond Trust
+BIK	SPDR Index Fund
+BIL	SPDR Series Trust
+BIR-A	Berkshire Income Realty Inc.
+BIV	Vanguard Bond Index Funds
+BJK	Market Vectors ETF Trust
+BJT	Merrill Lynch & Co. Inc.
+BJV	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+BJW	Merrill Lynch & Co. Inc.
+BKF	MSCI BRIC INDEX FUND
+BKJ	Bancorp of New Jersey Inc
+BKR	Baker (Michael) Corporation
+BLB	Merrill Lynch & Co. Inc.
+BLD	Baldwin Technology Company Inc.
+BLE	BlackRock Municipal Income Trust II
+BLJ	Blackrock New Jersey Municipal Bond Trust
+BLM	Citigroup Inc.
+BLV	Vanguard Bond Index Funds
+BLZ	BUFFER NOTES BASED UPON THE FI
+BMJ	Birks & Mayors Inc.
+BND	Vanguard Bond Index Funds
+BNP	Morgan Stanley
+BNV	Beverly National Corporation
+BNX	Banks.com Inc
+BNZ	WISDOMTREE DREYFUS
+BOM	POWERSHARES DB BASE
+BOS	POWERSHARES DB BASE
+BPF	Merrill Lynch & Co. Inc.
+BPS	BlackRock Pennsylvania Strategic Municipal Trust (The)
+BPW	BPW Acquisition Corp
+BPW.U	BPW Acquisition Corp
+BPW.W	BPW Acquisition Corp
+BPZ	BPZ RESOURCES INC
+BQI	Oilsands Quest Inc
+BQI.W	Oilsands Quest Inc
+BQY	S&P Quality Rankings Glbl Equ Mngd Tr
+BRN	Barnwell Industries Inc.
+BRU	NETS BEL 20 INDEX
+BSB	MERRILL LYNCH
+BSC	ELEMENTS BG SM CP ET
+BSL	Morgan Stanley
+BSR	BEAR STEARN ALERIAN
+BSV	Vanguard Bond Index Funds
+BTC	Community Bankers Trust Corporation.
+BTC.U	Community Bankers Trust Corporation.
+BTC.W	Community Bankers Trust Corporation.
+BTG	INX NTS SP BRIC 40
+BTI	British American Tobacco  Industries p.l.c.
+BTN	Ballantyne of Omaha Inc.
+BTQ	MORGAN STANLEY
+BTR	Merrill Lynch & Co. Inc.
+BUF	Minrad International Inc.
+BUN	Citigroup Inc.
+BUS	Columbus Acquisition Corp.
+BUS.U	Columbus Acquisition Corp.
+BUS.W	Columbus Acquisition Corp.
+BUW	CITIGROUP INC
+BVL	ELEMENTS BG LG ETN
+BVX	Bovie Medical Corporation
+BWL.A	Bowl America Inc.
+BWN	MORGAN STANLEY
+BWR	Merrill Lynch & Co. Inc.
+BWV	Barclays Bank PLC
+BWX	SPDR Series Trust
+BWZ	SPDR BARCLAY TSY BD
+BXA	Merrill Lynch
+BXT	Merrill Lynch & Co. Inc.
+BXU	Merrill Lynch & Co. Inc.
+BZC	Breeze-Eastern Corporation
+BZF	WISDOMTREE DREYFUS
+BZI	XELR8 Holdings Inc.
+BZI.A	XELR8 Holdings Inc.
+BZI.B	XELR8 Holdings Inc.
+BZM	BlackRock Maryland Municipal Bond Trust
+BZZ	Citigroup Inc.
+CAK	MERRILL LYNCH
+CAV	Cavalier Homes Inc.
+CAW	CCA Industries Inc.
+CBJ	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+CCA	MFS California Insured Municipal Trust
+CCF	Chase Corporation
+CDY	Cardero Resource Corporation
+CEF	Central Fund of Canada
+CEP	Constellation Energy Prtnr L
+CET	Central Securities Corporation
+CEV	Eaton Vance California Municipal Income Trust
+CFK	CE Franklin Ltd.
+CFP	Cornerstone Progressive Return Fund
+CFS	COMFORCE Corp.
+CFT	ISHARES LEHMAN CREDI
+CFW	Cano Petroleum Inc.
+CGL.A	Cagle's Inc.
+CGR	Claude Resources Inc.
+CGW	Claymore Exchange-Traded Fund Trust 2
+CH	Chile Fund Inc. (The)
+CHM	China Healthcare Acquisition Corp
+CHM.U	China Healthcare Acquisition Corp
+CHM.W	China Healthcare Acquisition Corp
+CHQ	Challenger Energy Corp
+CIK	Credit Suisse Asset Management Income Fund Inc.
+CIO	Asia Special Situation Acquisition Corp
+CIO.U	Asia Special Situation Acquisition Corp
+CIO.W	Asia Special Situation Acquisition Corp
+CIU	ISHARES LEHMAN INTER
+CKK	Citigroup Inc.
+CKX	CKX Lands Inc.
+CLA	Capitol Acquisition Corp
+CLA.U	Capitol Acquisition Corp
+CLA.W	Capitol Acquisition Corp
+CLM	Cornerstone Strategic Value Fund Inc.
+CMD	Criticare Systems, Inc.
+CMF	iShares Trust
+CML	COMPELLENT TECH INC
+CMM	CRIIMI MAE
+CMT	Core Molding Technologies Inc
+CNR	CanArgo Energy Corporation
+CNU	Continucare Corp.
+CNY	Carver Bancorp, Inc.
+COR	Cortex Pharmaceuticals Inc.
+COW	IPATH AIG LIVSTK ETN
+CPD	Caraco Pharmaceutical Laboratories Ltd.
+CQP	Cheniere Energy Partners LP
+CRC	Chromcraft Revington Inc.
+CRF	Cornerstone Strategic Return Fund Inc. (The)
+CRJ	Merrill Lynch & Co. Inc.
+CRO	Claymore Exchange-Traded Fund Trust 2
+CRV	Coast Distribution System Inc. (The)
+CSD	Claymore Exchange-Traded Fund Trust
+CSJ	ISHARES LEHMAN 1-3 Y
+CTO	Consolidated-Tomoka Land Co.
+CTT	Competitive Technologies Inc.
+CUL	MERRILL LYNCH
+CUO	Continental Materials Corporation
+CUR	Neuralstem Inc.
+CUT	Claymore Exchange-Traded Fund Trust 2
+CVF	Castle Convertible Fund Inc.
+CVM	Cel-Sci Corporation
+CVP	Centerplate Inc.
+CVR	Chicago Rivet & Machine Co.
+CVU	CPI Aerostructures Inc.
+CVY	Claymore Exchange-Traded Fund Trust
+CWI	streetTRACKS Index Funds
+CXA	SPDR Series Trust
+CXM	Cardium Therapeutics Inc.
+CXZ	Crosshair Exploration & Mining Corp
+CYB	CYBEX INTERNATIONAL, INC.
+CZA	Claymore Exchange-Traded Fund Trust
+DAG	DB AGRI DBL LONG ETN
+DAX	NETS Trust
+DBA	PowerShares DB Multi-Sector Commodity Trust
+DBB	PowerShares DB Multi-Sector Commodity Trust
+DBC	PowerShares DB Commodity Index Tracking Fund
+DBE	PowerShares DB Multi-Sector Commodity Trust
+DBN	WISDOMTREE INTERNATI
+DBO	PowerShares DB Multi-Sector Commodity Trust
+DBP	PowerShares DB Multi-Sector Commodity Trust
+DBR	WISDOMTREE INTERNATI
+DBS	PowerShares DB Multi-Sector Commodity Trust
+DBT	WISDOMTREE INTERNATI
+DBU	WISDOMTREE INTERNATI
+DBV	PowerShares DB G10 Currency Harvest Fund
+DBY	MORGAN STANLEY
+DCU	DRYCLEAN USA Inc.
+DCV	Morgan Stanley
+DCX	STRATEGIC ACC REDEM
+DDD	SCOLR Inc
+DDG	ProShares Trust
+DDI	WISDOMTREE INTERNATI
+DDM	ProShares Trust
+DDP	DB COMMODTY SHRT ETN
+DEB	WISDOMTREE EUR TDIV
+DEE	DB COMMODITY DS ETN
+DEF	Claymore Exchange-Traded Fund Trust
+DEJ	Dejour Enterprises Ltd
+DEK	Dekania Corp
+DEK.U	Dekania Corp
+DEK.W	Dekania Corp
+DEM	WISDOM TREE TRUST $0.001
+DES	WISDOMTREE SC DIV
+DEV	Merrill Lynch & Co. Inc.
+DEW	WISDOMTREE EU HI YLD
+DFE	WISDOMTREE EU SC DIV
+DFJ	WISDOMTREE JAP SC
+DFR	DEERFIELD CAPITAL CP
+DGC	DGSE Companies Inc.
+DGG	WISDOMTREE INTERNATI
+DGK	Merrill Lynch & Co. Inc.
+DGL	PowerShares DB Multi-Sector Commodity Trust
+DGP	DB GOLD DBL LG ETN
+DGS	WISDOMTREE EM MKTS
+DGT	streetTRACKS Dow Jones Global Titans Index Fund
+DGZ	DB GOLD SHORT ETN
+DHS	WISDOMTREE H-Y EQ TR
+DHY	Credit Suisse High Yield Bond Fund
+DIA	DIAMONDS Trust Series I
+DIG	ProShares Trust
+DII	Decorator Industries Inc.
+DIM	WISDOMTREE INTL MC
+DIT	AMCON Distributing Company
+DJL	Merrill Lynch & Co. Inc.
+DJP	Morgan Stanley Dean Witter & Co.
+DKA	WISDOMTREE INTERNATI
+DL	CHINA DISTANCE EDUC
+DLA	Delta Apparel Inc.
+DLN	WISDOMTREE LC DVDND
+DLS	Del Laboratories, Inc.
+DMC	Document Security Systems Inc.
+DMF	Dreyfus Municipal Income Inc.
+DMJ	Morgan Stanley Dean Witter & Co.
+DMY	Merrill Lynch & Co. Inc.
+DND	WisdomTree Pacific ex-Japan Total Dividend Fund
+DNE	Dune Energy Inc.
+DNH	WisdomTree Pacific ex-Japan High-Yielding Equity Fund
+DNL	WisdomTree Japan High-Yielding Equity Fund
+DNN	Intl Uranium Corp
+DOD	ELEMENTS DOGS OF DOW
+DOG	ProShares Trust
+DOL	WISDOMTREE INTL LC
+DON	WISDOMTREE MC DIV
+DOO	WisdomTree International Dividend Top 100 Fund
+DOY	MACROshares $100 Oil Down Trust
+DPC	WISDOMTREE INTERNATI
+DPK	DEVELOPED MKTS BEAR3
+DPN	WISDOMTREE INTERNATI
+DPU	DB COMMODITY LONG ET
+DPW	Digital Power Corporation
+DRF	WISDOMTREE INTERNATI
+DRJ	Dreams Inc.
+DRR	MORGAN STANLEY
+DRW	WisdomTree Trust
+DSC	SPDR Series Trust
+DSG	streetTRACKS Dow Jones U.S. Small Cap Growth Index Fund
+DSI	iShares Trust
+DSP	SP Acquisition Holdings Inc
+DSP.U	SP Acquisition Holdings Inc
+DSP.W	SP Acquisition Holdings Inc
+DSV	streetTRACKS Dow Jones U.S. Small Cap Value Index Fund
+DTD	WISDOMTREE TTL DIV
+DTH	WISDOMTREE DIEFA HY
+DTN	WISDOMTREE DIV 100
+DTO	POWERSHARES DB CRUDE
+DUG	ProShares Trust
+DVK	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+DVY	Ishares Dow Jones Select Dividend Index Fund
+DWM	WISDOMTREE DIEFA
+DWX	SPDR Index Fund
+DXD	ProShares Trust
+DXJ	WISDOMTREE JAP TDIV
+DXN	DigitalFX International Inc.
+DXO	POWERSHARES DB CRUDE
+DXR	Daxor Corporation
+DYY	DB COMMODITY DL ETN
+DZK	DEVELOPED MKTS BULL3
+DZZ	DB GOLD DBL SH ETN
+EAD	Evergreen Income Advantage Fund
+EAG	American Defense Systems Inc
+EAP	Citigroup Inc.
+EAR	HearUSA Inc.
+EAZ	Citigroup Inc.
+EBY	Citigroup Inc.
+ECB	Citigroup Inc.
+ECF	Ellsworth Convertible Growth and Income Fund Inc.
+ECH	ISHARES MSCI CHILE
+ECK	CITIGROUP FUNDING IN
+EDA	Citigroup Inc.
+EDC	EMERGING MKTS BULL3
+EDV	Vanguard World Funds
+EDZ	EMERGING MKTS BEAR3X
+EEB	Claymore Exchange-Traded Fund Trust
+EEE	Evergreen Energy Inc
+EEH	ELEMENTS LINKED TO THE SPECTRU
+EEM	Ishares Msci Emerging Index Fund
+EEN	Claymore Exchange-Traded Fund Trust 2
+EES	WisdomTree Trust
+EEV	ProShares Trust
+EEZ	WisdomTree Trust
+EFA	Ishares Msci Eafe Index Fund
+EFD	ACC RTN NTS MSCI EAF
+EFG	Ishares
+EFP	Morgan Stanley Dean Witter & Co.
+EFS	MEERRILL LYNCH
+EFU	ProShares Trust
+EFV	Ishares
+EFZ	ProShares Trust
+EGI	Entree Gold Inc
+EGJ	Citigroup Inc.
+EGK	Citigroup Inc.
+EGO	Eldorado Gold Corp
+EGT	Elixir Gaming Technologies Inc
+EGX	Engex Inc.
+EHC	Citigroup Inc.
+EHD	Citigroup Global Funding
+EHP	Citigroup Inc.
+EIA	Eaton Vance Insured California Municipal Bond Fund II
+EIM	Eaton Vance Insured Municipal Bond Fund
+EIO	Eaton Vance Insured Ohio Municipal Bond Fund
+EIP	Eaton Vance Insured Pennsylvania Municipal Bond Fund
+EIS	ISHARES MSCI ISRAEL
+EIV	Eaton Vance Insured Municipal Bond Fund II
+EJC	Citigroup Inc.
+EJQ	CITIGROUP
+EJS	Citigroup Inc.
+EKC	Citigroup Inc.
+EKG	Citigroup Global Markets
+EKH	Merrill Lynch Europe 2001 HOLDRS
+EKJ	Citigroup Inc.
+EKK	Citigroup Inc.
+EKV	Citigroup Inc.
+ELC	Structured Product Merrill Lynch
+ELG	streetTRACKS Dow Jones U.S. Large Cap Growth Index Fund
+ELI	Elite Pharmaceuticals Inc.
+ELJ	Citigroup Inc.
+ELQ	CITIGROUP FUNDING IN
+ELR	SPDR Series Trust
+ELU	Merrill Lynch & Co. Inc.
+ELV	streetTRACKS Dow Jones U.S. Large Cap Value Index Fund
+EMB	ISHARES JP MORGAN
+EMG	SPDR Series Trust
+EMI	Eaton Vance Michigan Municipal Income Trust
+EMJ	Eaton Vance Insured New Jersey Municipal Bond Fund
+EML	Eastern Company (The)
+EMM	SPDR Series Trust
+EMV	SPDR Series Trust
+ENA	Enova Systems Inc.
+END	Endeavor International Corporation
+ENX	Eaton Vance Insured New York Municipal Bond Fund
+ENY	Claymore Exchange-Traded Fund Trust 2
+EOA	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+EPH	Community Bankers Trust Corporation.
+EPI	WISDOMTREE INDIA
+EPM	Evolution Petroleum Corporation Inc.
+EPP	Ishares Msci Pacific Ex-japan Index Fund
+EPS	WisdomTree Trust
+ERC	Evergreen Multi-Sector Income Fund
+ERH	Evergreen Utilities and High Income Fund
+ERI	EMRISE CORPORATION
+ERO	IPATH EUR/USD EXCHAN
+ERS	Empire Resources Inc.
+ERX	ENERGY BULL 3X
+ERY	ENERGY BEAR 3X
+ESA	Energy Services Acquisition Corp
+ESA.U	Energy Services Acquisition Corp
+ESA.W	Energy Services Acquisition Corp
+ESM	Citigroup Inc.
+ESP	Espey Mfg. & Electronics Corp.
+EST	Enterprise Acquisition Corp.
+EST.U	Enterprise Acquisition Corp.
+EST.W	Enterprise Acquisition Corp.
+ETC	Environmental Tectonics Corp.
+ETF	Emerging Markets Telecommunications Fund (The)
+ETQ	Corriente Res Inc
+EU	WISDOMTREE DREYFUS
+EUM	ProShares Trust
+EUO	PROSHS ULTRASHT EURO
+EVJ	Eaton Vance New Jersey Municipal Income Trust
+EVK	Ever-Glory International Group Inc.
+EVM	Eaton Vance Insured California Municipal Bond Fund
+EVO	Eaton Vance Ohio Municipal Income Trust
+EVP	Eaton Vance Pennsylvania Municipal Income Trust
+EVV	Eaton Vance Duration Income Fund
+EVX	Market Vectors ETF Trust
+EVY	Eaton Vance New York Municipal Income Trust
+EWA	iShares MSCI Australia Index Fund
+EWC	iShares MSCI Canada Index Fund
+EWD	Ishares Msci Sweden Index Fund
+EWG	iShares MSCI Germany Index Fund
+EWH	iShares MSCI Hong Kong Index Fund
+EWI	Ishares Msci Italy Index Fund
+EWJ	Ishares Msci Japan Index Fund
+EWK	iShares MSCI Belgium Index Fund
+EWL	Ishares Msci Switzerland Index Fund
+EWM	Ishares Msci Malaysia Index Fund
+EWN	Ishares Msci Netherlands Index Fund
+EWO	iShares MSCI Austria Index Fund
+EWP	Ishares Msci Spain Index Fund
+EWQ	iShares MSCI France Index Fund
+EWS	Ishares Msci Singapore Index Fund
+EWT	Ishares Msci Taiwan Index Fund
+EWU	Ishares Msci United Kingdom Index Fund
+EWV	ProShares Trust
+EWW	iShares MSCI Mexico Index Fund
+EWX	SPDR Index Fund
+EWY	Ishares Msci South Korea Index Fund
+EWZ	Ishares Msci Brazil Index Fund
+EXB	Claymore Exchange-Traded Fund Trust 2
+EXI	ISHARES S& P GLOBAL
+EXK	Endeavour Silver Corporation
+EXT	WisdomTree Trust
+EXX.A	EXX Inc.
+EXX.B	EXX Inc.
+EYA	Citigroup Inc.
+EYJ	Citigroup Inc.
+EYW	Citigroup Inc.
+EZA	Ishares Msci South Africa Index Fund
+EZM	WisdomTree Trust
+EZU	iShares MSCI EMU Index Fund
+EZY	WisdomTree Trust
+FAA	CLAYMORE AIRLINE ETF
+FAB	First Trust Exchange-Traded Fund
+FAD	First Trust Exchange-Traded Fund
+FAN	FIRST TRUST ISE GLBL
+FAS	FINANCIAL BULL 3X
+FAX	Aberdeen Asia-Pacific Income Fund Inc
+FAZ	FINANCIAL BEAR 3X
+FBT	First Trust Amex  Biotechnology Index Fund
+FCG	FT ISE REVERE NAT GS
+FCM	First Trust/Four Corners Senior Floating Rate Income Fund
+FCO	Aberdeen Global Income Fund Inc.
+FDD	First Trust Exchange-Traded Fund II
+FDL	First Trust Morningstar Dividend Leaders Index Fund
+FDM	First Trust Dow Jones Select MicroCap Index(sm) Fund
+FDN	First Trust Dow Jones Internet Indexsm Fund
+FDV	First Trust DB Strategic Value Index Fund
+FEN	Energy Income and Growth Fund
+FEP	Franklin Electronic Publishers Inc.
+FEU	Fresco Dj Stoxx 50
+FEV	Eaton Vance Florida Municipal Income Trust
+FEX	First Trust Exchange-Traded Fund
+FEZ	Fresco Dj Euro Stoxx 50
+FFI	Fortune Diversified Industries Inc.
+FFR	First Trust Exchange-Traded Fund II
+FGD	First Trust Exchange-Traded Fund II
+FHC	Female Health Company (The)
+FIO	ISHS FTS NRT I/O IDX
+FIT	FAB Industries, Inc.
+FIW	FT ISE WATER INDEX
+FLL	Full House Resorts Inc.
+FLM	FIRST TRUST ISE GLBL
+FNI	FT ISE CHINDIA IDX
+FNX	First Trust Exchange-Traded Fund
+FOA	Merrill Lynch & Co. Inc.
+FOH	Frederick's of Hollywood Group
+FPB	Fountain Powerboat Industries Inc.
+FPI	First Trust Advantage Preferred Income Fund
+FPP	FieldPoint Petroleum Corporation
+FPU	Florida Public Utilities Company
+FPX	First Trust IPOX-100 Index Fund
+FRC	NETS CAC40 INDEX FUN
+FRD	Friedman Industries Inc.
+FRG	Fronteer Development Group Inc.
+FRI	First Trust S&P REIT Index Fund
+FRN	Friendly Ice Cream Corporation
+FRS	Frisch's Restaurants Inc.
+FSI	Flexible Solutions International Inc.
+FSN	Fusion Telecommunications International Inc.
+FSN.W	Fusion Telecommunications International Inc.
+FSP	Franklin Street Properties Corp.
+FTA	First Trust Exchange-Traded Fund
+FTC	First Trust Exchange-Traded Fund
+FTF	Franklin Templeton Duration Income Trust
+FTY	ISHS FTS NRT RE 50
+FUD	E-TRACS UBS BLOOMBER
+FUE	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+FVD	First Trust Value Line  Dividend Index Fund
+FVE	Five Star Quality Care Inc.
+FVI	First Trust Value Line Equity Allocation Index(sm)Fund
+FVL	First Trust Value Line  100 Exchange-Traded Fund
+FWV	First West Virginia Bancorp Inc.
+FXA	CRRNCYSHR AUS DLR TR
+FXB	CRRNCYSHR BP STER TR
+FXC	CRRNCYSHRS CAN DL TR
+FXD	First Trust Exchange-Traded Fund
+FXE	Currencyshares Euro Trust
+FXF	CRRNCYSHR SW FR TR
+FXG	First Trust Exchange-Traded Fund
+FXH	First Trust Exchange-Traded Fund
+FXI	Ishares Trust Ftse-xinhua China 25 Index Fund
+FXL	First Trust Exchange-Traded Fund
+FXM	CRRNCYSHR MEX PSO TR
+FXN	First Trust Exchange-Traded Fund
+FXO	First Trust Exchange-Traded Fund
+FXP	ProShares Trust
+FXS	CRRNCYSHR SW KRN TR
+FXU	First Trust Exchange-Traded Fund
+FXY	CRNCYSHRS JPN YEN TR
+FXZ	First Trust Exchange-Traded Fund
+FYR	Sapphire Industrials Corp.
+FYR.U	Sapphire Industrials Corp.
+FYR.W	Sapphire Industrials Corp.
+FYX	First Trust Exchange-Traded Fund
+FZN	Cuisine Solutions Inc
+GAC	Geneva Acquisition Corporation
+GAC.W	Geneva Acquisition Corporation
+GAF	SPDR Index Fund
+GAN	GAICO Inc.
+GAZ	IPATH NAT GAS ETN
+GBB	IPATH GBP/USD EXCHANGE RATE ET
+GBC	Morgan Stanley
+GBF	ISHARES LEHMAN GOVER
+GBG	GREAT BASIN GOLD LTD
+GBH	Green Builders Inc
+GBO	Merrill Lynch & Co. Inc.
+GBR	New Concept Energy Inc
+GCC	GreenHaven Continuous Commodity Index Fund
+GCE	CLAYMORE CEF CONNECT
+GDX	Market Vectors ETF Trust
+GEE	Global Entertainment Corporation
+GEL	Genesis Energy L.P.
+GEX	Globix Corp
+GGA	GSC Acquisition Company
+GGA.U	GSC Acquisition Company
+GGA.W	GSC Acquisition Company
+GGN	The Gabelli Global Goldn Natural Resources & Income Trust
+GGN-A	The Gabelli Global Goldn Natural Resources & Income Trust
+GGR	GeoGlobal Resources Inc.
+GHC	Global Consumer Acquisition Corp
+GHC.U	Global Consumer Acquisition Corp
+GHC.W	Global Consumer Acquisition Corp
+GHM	Graham Corporation
+GHQ	GHL Acquisition Corp
+GHQ.U	GHL Acquisition Corp
+GHQ.W	GHL Acquisition Corp
+GIA	Gulfstream International Group Inc
+GII	streetTRACKS Index Funds
+GIT	MORGAN STANLEY
+GIW	Wilber Corporation
+GKO	Merrill Lynch
+GLA	Clark Holdings Inc
+GLA.W	Clark Holdings Inc
+GLD	Streettracks Gold Trust
+GLL	Morgan Stanley
+GLO	Clough Global Opportunities Fund
+GLQ	Clough Global Equity Fund
+GLU	Gabelli Global Utility
+GLV	Clough Global Allocation Fund
+GMF	SPDR Index Fund
+GML	SPDR Index Fund
+GMM	SPDR Index Fund
+GMO	General Moly Inc
+GNH	GLOBAL ENERGY
+GOE	Credit Suisse Group
+GOK	Geokinetics Inc.
+GPH	Golden Pond Healthcare Inc
+GPH.U	Golden Pond Healthcare Inc
+GPH.W	Golden Pond Healthcare Inc
+GPR	GeoPetro Resources Co
+GQN	Global Brands Acquisition Corp
+GQN.U	Global Brands Acquisition Corp
+GQN.W	Global Brands Acquisition Corp
+GRC	Gorman-Rupp Company (The)
+GRF	Eagle Capital Growth Fund Inc.
+GRH	GreenHunter Energy Inc
+GRI	ALPS ETF Trust
+GRN	Claymore Exchange-traded Fund Trust
+GRU	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+GRZ	Gold Reserve Inc
+GSB	GlobalSCAPE Inc.
+GSC	GS CONNECT S& P GSCI ENH ANCED
+GSG	ISHARES GSCI CMDTY
+GSP	IPATH GSCI TRI ETN
+GSS	Golden Star Resources Ltd
+GST	Gastar Exploration
+GSX	GASCO ENERGY INC
+GTA	Golf Trust of America Inc.
+GTE	Gran Tierra Energy Inc.
+GTF	Cytomedix Inc. New
+GTU	Central Gold Trust
+GUR	SPDR Index Fund
+GV	Goldfield Corporation (The)
+GVI	Vi Group, Plc
+GVP	GSE Systems Inc.
+GW	Grey Wolf Inc.
+GWL	SPDR Index Fund
+GWO	CREDIT SUISSE ELEMEN
+GWX	SPDR Index Fund
+GXC	streetTracks Index Funds
+GXG	GL
+GZV	Merrill Lynch & Co. Inc.
+HAO	Claymore Exchange-Traded Fund Trust 2
+HAP	MKT VECTORS RVE ETF
+HCM	Hanover Capital Mortgage Holdings Inc.
+HDS	Alpha Security Group Corporation
+HDS.U	Alpha Security Group Corporation
+HDS.W	Alpha Security Group Corporation
+HDY	HyperDynamics Corporation
+HEB	Hemispherx BioPharma Inc.
+HEV	Ener1 Inc
+HFB	Merrill Lynch & Co. Inc.
+HGI	Claymore Exchange-Traded Fund Trust 2
+HH	Hooper Holmes Inc.
+HHD	HEALTHSHARES DIAGNOS
+HHH	Merrill Lynch Internet HOLDRS
+HHK	HS CANCER ETF
+HHV	HEALTHSHARES ENABLIN
+HIA	Highlands Acquisition Corp
+HIA.U	Highlands Acquisition Corp
+HIA.W	Highlands Acquisition Corp
+HKG	NETS HANGSENG IDX HK
+HKN	HKN Inc.
+HLD	Secure America Acquisition Corporation
+HLD.U	Secure America Acquisition Corporation
+HLD.W	Secure America Acquisition Corporation
+HLM.P	Hillman Group Capital Trust
+HMG	HMG/Courtland Properties Inc.
+HMR	Sports Properties Acquisition
+HMR.U	Sports Properties Acquisition
+HMR.W	Sports Properties Acquisition
+HNB	HERITAGE BANK NA
+HNW	Pioneer Diversified High Income Trust
+HOL	China Holdings Acquisition Corporation
+HOL.U	China Holdings Acquisition Corporation
+HOL.W	China Holdings Acquisition Corporation
+HPB	MORGAN STANLEY
+HPJ	Hong Kong Highpower Technology
+HQS	HQ Sustainable Maritime Industries Inc.
+HRO	Merrill Lynch & Co. Inc.
+HRT	Arrhythmia Research Technology Inc.
+HSJ	Merrill Lynch & Co. Inc.
+HSR	Hi-Shear Technology Corp.
+HTC	Hungarian Telephone & Cable Corp.
+HTM	U.S. Geothermal Inc.
+HWG	Hallwood Group Incorporated
+HWK	Hawk Corporation
+HX	Halifax Corporation
+HYG	iShares Trust
+IAF	Aberdeen Australia Equity Fund Inc
+IAH	Merrill Lynch Internet Architecture HOLDRS
+IAI	ISHARES DJ US BDIF
+IAK	ISHARES DJ US IN IDX
+IAN	Inter-Atlantic Financial Inc.
+IAN.U	Inter-Atlantic Financial Inc.
+IAN.W	Inter-Atlantic Financial Inc.
+IAO	IA Global Inc.
+IAT	ISHARES DJ US RBIF
+IAU	iShares COMEX Gold Trust
+IAX	International Absorbents Inc.
+IBF	Citigroup Inc.
+ICF	Ishares Cohen & Steers Realty Majors Index Fund
+ICH	Investors Capital Holdings Ltd.
+ICI	IPATH OPTIMIZED CURRENCY CARRY E
+ICN	WISDOMTREE DREYFUS
+ICT	Merrill Lynch & Co. Inc.
+IDI	Ideation Acquisition Corp
+IDI.U	Ideation Acquisition Corp
+IDI.W	Ideation Acquisition Corp
+IDN	Intelli-Check Inc.
+IDU	Ishares Dow Jones U.s. Utilities Index Fund
+IDV	ISHARES DJ EPAC ETF
+IDX	MARKET VECTORS INDONESIA INDEX
+IEF	Ishares Lehman 7-10 Year Treasury Bond Fund
+IEI	ISHARES LEHMAN 3-7 Y
+IEO	ISHARES DJ US OG EP
+IEV	Ishares S&p Europe 350 Index Fund
+IEZ	ISHARES DJ US OE& SI
+IF	Indonesia Fund Inc. (The)
+IFK	International Finance Corp.
+IG	IGI Laboratories Inc.
+IGC	India Globalization Capital Inc.
+IGC.U	India Globalization Capital Inc.
+IGC.W	India Globalization Capital Inc.
+IGE	Ishares Goldman Sachs Natural Resources Index Fund
+IGF	ISHARES S& P GLOBAL I
+IGM	Ishares Goldman Sachs Technology Index Fund
+IGN	Ishares Goldman Sachs Network Index Fund
+IGV	Ishares Goldman Sachs Software Index Fund
+IGW	Ishares Goldman Sachs Semiconductor Index Fund
+IHE	ISHARES DJ US PHRM
+IHF	ISHARES DJ US HCPIF
+IHI	ISHARES DJ US MDIF
+IHT	InnSuites Hospitality Trust
+IIG	iMergent Inc
+IIH	Merrill Lynch Internet Infrastructure HOLDRS
+IIL	Morgan Stanley
+IJH	Ishares S&p Midcap 400 Index Fund
+IJJ	Ishares S&p Midcap 400/barra Value Index Fund
+IJK	Ishares S&p Midcap 400/barra Growth Index Fund
+IJR	Ishares S&p Smallcap 600 Index Fund
+IJS	Ishares Small Cap 600/barra Value Index Fund
+IJT	Ishares Small Cap 600/barra Growth Index Fund
+ILC	iLinc Communications Inc.
+ILE	Isolagen Inc
+ILF	Ishares S&p Latin America 40 Index Fund
+ILI	Interleukin Genetics Inc.
+ILX	ILX Resorts Incorporated
+IMA	Inverness Medical Innovations Inc.
+IMA-B	Inverness Medical Innovations Inc.
+IMM	Immtech Pharmaceuticals Inc.
+IMO	Imperial Oil
+IMR	IMA Exploration Inc.
+IMW	Merrill Lynch & Co. Inc.
+IMX	Implant Sciences Corporation
+INO	Inovio Biomedical Corporation
+INP	IPATH ETNS LINKED TO
+INR	MARKET VECTORS RUPEE
+INS	Intelligent Systems Corporation
+INY	SPDR Series Trust
+IOC	Interoil Corp
+IOO	ISHARE SP GBL 100 IN
+IOT	Income Opportunity Realty Trust
+IPB	Merrill Lynch & Co. Inc.
+IPD	SPDR Index Fund
+IPE	SPDR Series Trust
+IPF	SPDR Index Fund
+IPK	SPDR Index Fund
+IPN	SPDR Index Fund
+IPS	SPDR Index Fund
+IPT	iParty Corporation
+IPU	SPDR Index Fund
+IPW	SPDR Index Fund
+IQE	NETS ISEQ 20 INDX FD
+IRO	Claymore Exchange-Traded Fund Trust
+IRV	SPDR Index Fund
+IRY	SPDR Index Fund
+ISI	Ishares S&p 1500 Index Fund
+ISL	First Israel Fund Inc. (The)
+ISO	ISCO INTERNATIONAL INC
+ISR	IsoRay Inc.
+IST	SPDR Index Fund
+ISV	InSite Vision Incorporated
+ITA	ISHARES DJ US A& DIF
+ITB	ISHARES DJ US HCIF
+ITE	SPDR Series Trust
+ITF	Ishares S&p/topix 150 Index Fund
+ITI	Iteris Inc.
+ITM	Market Vectors ETF Trust
+IVA	ValueRich Inc.
+IVD	IVAX Diagnostics Inc.
+IVE	Ishares S&p 500/barra Value Index Fund
+IVV	Ishares S&p 500 Index Fund
+IVW	Ishares S&p 500/barra Growth Index Fund
+IWB	Ishares Russell 1000 Index Fund
+IWC	ISHARES RUSSELL MICR
+IWD	Ishares Russell 1000 Value Index Fund
+IWF	Ishares Russell 1000 Growth Index Fund
+IWK	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+IWM	Ishares Russell 2000 Index Fund
+IWN	Ishares Russell 2000 Value Index Fund
+IWO	Ishares Russell 2000 Growth Index Fund
+IWP	Ishares Russell Midcap Growth Index Fund
+IWR	Ishares Russell Midcap Index Fund
+IWS	Ishares Russell Midcap Value Index Fund
+IWV	Ishares Russell 3000 Index Fund
+IWW	Ishares Russell 3000 Value Index Fund
+IWZ	Ishares Russell 3000 Growth Index Fund
+IXC	Ishares S&p Global Energy Index Fund
+IXG	Ishares S&p Global Financial Index Fund
+IXJ	Ishares S&p Global Healthcare Index Fund
+IXN	Ishares S&p Global Technology Index Fund
+IXP	Ishares S&p Global Telecommunications Index Fund
+IYC	Ishares Dow Jones U.s. Consumer Index Fund
+IYE	Ishares Dow Jones U.s. Oil And Gas Fund
+IYF	Ishares Dow Jones U.s. Financials Index Fund
+IYG	Ishares Dow Jones U.s. Financial Services Index Fund
+IYH	Ishares Dow Jones U.s. Health Care Index Fund
+IYJ	Ishares Dow Jones U.s. Industrials Index Fund
+IYK	Ishares Dow Jones U.s. Consumer Goods Index Fund
+IYM	Ishares Dow Jones U.s. Basic Materials Index
+IYR	Ishares Dow Jones U.s. Real Estate Index Fund
+IYT	Ishares Dow Jones Transportation Average Index Fund
+IYW	Ishares Dow Jones U.s. Technology Index Fund
+IYY	Ishares Dow Jones U.s. Total Market Index Fund
+IYZ	Ishares Dow Jones U.s. Telecommunications Index Fund
+JAG	JAGUAR MINING INC
+JAV	Javelin Pharmaceuticals Inc.
+JDO	JED Oil Inc
+JEM	Barclays PLC
+JEN	Jennifer Convertibles Inc.
+JFT	J P Morgan Chase & Co
+JJA	IPATH AIG AGRI ETN
+JJC	IPATH AIG COPPER ETN
+JJE	IPATH AIG ENERGY ETN
+JJG	IPATH AIG GRAINS ETN
+JJM	IPATH AIG IND MT ETN
+JJN	IPATH AIG NICKEL ETN
+JJP	IPATH DJ-AIG PRECIOU
+JJS	IPATH DJ-AIG SOFTS
+JJT	IPATH DJ-AIG TIN ETN
+JJU	IPATH DJ-AIG ALUMINU
+JKD	ISHARES MRNGST LRG C
+JKE	ISHARES MRNG LRG GR
+JKF	ISHARES MRGSR LGVLIX
+JKG	ISHARES MRGST MIDCOR
+JKH	ISHARES MRGST GRO IN
+JKI	ISHARES MRGNG MID VA
+JKJ	ISHARES MRGN SM CORE
+JKK	ISHARES MRNGST SM GR
+JKL	ISHARES MRNGST SM VL
+JLI	Jesup & Lamont Inc
+JNB	NETS Trust
+JNK	SPDR Series Trust
+JO	IPATH DJ-AIG COFFEE
+JOB	General Employment Enterprises Inc.
+JPK	Morgan Stanley
+JPP	streetTracks Index Funds
+JRE	NETS TOKYO REIT IDX
+JRS	Nuveen Real Estate Fund
+JSC	streetTRACKS Index Funds
+JVA	Coffee Holding Co. Inc.
+JXI	ISHARES S& P GLOBAL
+JYF	WISDOMTREE DREYFUS
+JYN	IPATH JPY/USD EXCHAN
+KAD	Arcadia Resources Inc.
+KAZ	BMB Munai Inc.
+KBE	SPDR Series Trust
+KBX	Kimber Resources Inc
+KCE	SPDR Series Trust
+KGN	Keegan Resources Inc
+KGS	QUICKSILVER GAS
+KHA	KBL Healthcare Acquisition Corp. III
+KHA.U	KBL Healthcare Acquisition Corp. III
+KHA.W	KBL Healthcare Acquisition Corp. III
+KIE	SPDR Series Trust
+KLD	ISHARES KLD INDX FD
+KOG	Kodiak Oil
+KOL	MARKET VECTORS COAL
+KOW	KOWABUNGA! INC
+KRE	SPDR Series Trust
+KRU	Crusader Energy Group Inc.
+KRY	Crystallex International Corporation
+KUN	China Shenghuo Pharmaceutical Holdings Inc
+KWT	Market Vectors ETF Trust
+KXI	ISHARES S& P GLOBAL
+LAG	SPDR Series Trust
+LAQ	Latin America Equity Fund Inc. (The)
+LB	LaBarge Inc.
+LCI	Lannett Co Inc
+LD	IPATH DJ-AIG LEAD
+LDB	Merrill Lynch & Co. Inc.
+LDN	NETS Trust
+LEI	Lucas Energy Inc.
+LGL	LGL Group Inc.
+LGN	Lodgian Inc.
+LIA	Liberty Acquisition Holdings Corp
+LIA.U	Liberty Acquisition Holdings Corp
+LIA.W	Liberty Acquisition Holdings Corp
+LIS	NETS PSI 20 INDEX FD
+LKI	Lazare Kaplan International Inc.
+LNG	Cheniere Energy Inc.
+LOV	Spark Networks Plc
+LQD	Tm Corporate Bond Fund
+LRN	K12 INC
+LSC	ELEMENTS S& P ETN
+LSO	Credit Suisse Group
+LSR	Laser Technology Inc.
+LTL	ProShares Trust
+LTS	Ladenburg Thalmann Financial Services Inc
+LVL	Claymore Exchange-Traded Fund Trust
+LZR	EMERGENT GROUP INC
+MAB	Eaton Vance Insured Massachusetts Municipal Bond Fund
+MAM	Maine & Maritimes Corporation
+MAO	Merrill Lynch & Co. Inc.
+MBA	CIBT Education Group Inc.
+MBB	iShares Trust
+MBG	SPDR BARCLAY CAP BD
+MBH	MBF Healthcare Acquisition Corp.
+MBH.U	MBF Healthcare Acquisition Corp.
+MBH.W	MBF Healthcare Acquisition Corp.
+MBJ	Morgan Stanley
+MBR	Mercantile Bancorp Inc. (Quincey IL)
+MBS	MORGAN STANLEY
+MCF	Contango Oil & Gas Company
+MCP	Merrill Lynch & Co. Inc.
+MCZ	Mad Catz Interactive Inc
+MDD	SPDR Index Fund
+MDF	Metropolitan Health Networks Inc.
+MDM	Mountain Province Diamonds Inc.
+MDW	Midway Gold Corporation
+MDY	MidCap SPDR Trust Series I
+MEA	Metalico Inc
+MEJ	Santa Monica Media Corporation
+MEJ.U	Santa Monica Media Corporation
+MEJ.W	Santa Monica Media Corporation
+MES	MARKET VECTORS
+MFN	MineFinders Corp. Ltd.
+MFY	Merrill Lynch & Co. Inc.
+MGC	VANGUARD MEGACAP 300
+MGH	Minco Gold Corporation
+MGK	VANGUARD MEGACP GR
+MGN	Mines Management Inc.
+MGT	MGT Capital Investments Inc
+MGV	VANGUARD MEGACP VAL
+MHE	Massachusetts Health and Education Tax-Exempt Trust
+MHG	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+MHH	MASTECH HOLDINGS INC
+MHJ	Man Sang Holdings Inc
+MHR	Merrill Lynch & Co. Inc.
+MHT	Morgan Stanley Dean Witter & Co.
+MHU	Merrill Lynch & Co. Inc.
+MIB	MORGAN STANLEY
+MIF	Merrill Lynch & Co. Inc.
+MIS	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+MIW	Eaton Vance Insure Michigan Municipal Bond Fund
+MIX	Merrill Lynch & Co. Inc.
+MJP	Morgan Stanley Dean Witter & Co.
+MKH	Merrill Lynch Market 2000+ HOLDRS
+MKI	Merrill Lynch & Co. Inc.
+MKO	Merrill Lynch & Co. Inc.
+MKP	Merrill Lynch & Co. Inc.
+MKY	Merrill Lynch & Co. Inc.
+MLB	Merrill Lynch & Co. Inc.
+MLN	Market Vectors ETF Trust
+MLV	Merrill Lynch & Co. Inc.
+MLW	Merrill Lynch & Co. Inc.
+MMG	Metalline Mining Company
+MMV	Eaton Vance Massachusetts Municipal Income Trust
+MNK	Merrill Lynch & Co. Inc.
+MNL	Merrill Lynch & Co. Inc.
+MNM	Morgan Stanley
+MOC	Command Security Corporation
+MOO	Market Vectors ETF Trust
+MOR	MORGAN STANLEY
+MRM	Merrimac Industries Inc.
+MSL	MidSouth Bancorp
+MSN	Emerson Radio Corporation
+MSS	Merrill Lynch & Co. Inc.
+MST	MORGAN STANLEY
+MSU	Morgan Stanley Dean Witter & Co.
+MTK	streetTRACKS Morgan Stanley Technology Index Fund
+MUB	iShares Trust
+MVE	Smart Move Inc.
+MVE.W	Smart Move Inc.
+MVF	MuniVest Fund Inc.
+MVG	Mag Silver Corporation
+MVI	Merrill Lynch & Co. Inc.
+MVV	ProShares Trust
+MWJ	MID CAP BULL 3X SHS
+MWL	Merrill Lynch & Co. Inc.
+MWN	MID CAP BEAR 3X SHS
+MXA	Minnesota Municipal Income Portfolio Inc.
+MXC	Mexco Energy Corporation
+MXH	Merrill Lynch & Co. Inc.
+MXI	ISHARES S& P GLOBAL
+MXM	MAXXAM Inc.
+MXN	First American Minnesota Municipal Income Fund II Inc.
+MYG	NETS FTSE CNBC GLOBAL 300
+MYX	Merrill Lynch & Co. Inc.
+MYY	ProShares Trust
+MZA	MuniYield Arizona Fund Inc.
+MZG	CLAYMORE MS MNFC ETF
+MZJ	Merrill Lynch & Co. Inc.
+MZN	CLAYMORE MS INFO ETF
+MZO	CLAYMORE MS SVCS ETF
+MZZ	ProShares Trust
+NAK	Northern Dynasty Minerals Ltd.
+NAQ	NRDC Acquisition Corp
+NAQ.U	NRDC Acquisition Corp
+NAQ.W	NRDC Acquisition Corp
+NAS	Citigroup Inc.
+NBF	Nova Biosource Fuels Inc.
+NBH	Neuberger Berman Intermediate Municipal Fund Inc.
+NBJ	Nuveen Ohio Dividend Advantage Municipal Fund 2
+NBO	Neuberger Berman New York Intermediate Municipal Fund Inc.
+NBS	Neostem Inc.
+NBS.W	Neostem Inc.
+NBW	Neuberger Berman California Intermediate Municipal Fund Inc.
+NBY	NovaBay Pharmaceuticals Inc.
+NCU	Nuveen California Premium Income Municipal Fund
+NDD	Neuberger Berman Dividend Advantage
+NEA	Nuveen Insured Tax-Free Advantage Municipal Fund
+NEH	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+NEN	New England Realty Associates Partnership
+NEP	Nephros Inc.
+NFC	Nuveen Connecticut Dividend Advantage Municipal Fund
+NFM	Nuveen Maryland Dividend Advantage Municipal Fund
+NFO	Claymore Exchange-Traded Fund Trust
+NFZ	Nuveen Arizona Dividend Advantage Municipal Fund
+NG	Novagold Resources Inc New
+NGB	Nuveen Virginia Dividend Advantage Municipal Fund
+NGD	NEW GOLD INC.
+NGK	Nuveen Connecticut Dividend Advantage Municipal Fund 2
+NGO	Nuveen Connecticut Dividend Advantage Municipal Fund 3
+NGX	Nuveen Insured Massachusetts Tax-Free Advantage Municipal Fund
+NHC	National HealthCare Corporation
+NHC-A	National HealthCare Corporation
+NHR	National Health Realty, Inc.
+NHR.U	North Asia Investment Corp.
+NHR.W	NORTH ASIA INV WTS
+NIB	IPATH DJ-AIG COCOA
+NII	Nuveen North Carolina Dividend Advantage Municipal Fund 3
+NKG	Nuveen Georgia Dividend Advantage Municipal Fund 2
+NKL	Nuveen Insured California Dividend Advantage Municipal Fund
+NKO	Nuveen Insured New York Dividend Advantage Municipal Fund
+NKR	Nuveen Arizona Dividend Advantage Municipal Fund 2
+NKS	Merrill Lynch & Co. Inc.
+NKW	Merrill Lynch & Co. Inc.
+NKX	Nuveen Insured California Tax-Free Advantage Municipal Fund
+NLP	NTS Realty Holdings Partnership
+NLR	Market Vectors ETF Trust
+NLX	Overture Acquisition Corp.
+NLX.U	Overture Acquisition Corp.
+NLX.W	Overture Acquisition Corp.
+NMB	Nuveen Massachusetts Dividend Advantage Municipal Fund
+NMQ	Merrill Lynch & Co. Inc.
+NMZ	Nuveen Municipal High Income Opportunity Fund
+NNB	Nuveen Virginia Dividend Advantage Municipal Fund 2
+NNO	Nuveen North Carolina Dividend Advantage Municipal Fund 2
+NOG	Northern Oil and Gas Inc.
+NOM	Nuveen Missouri Premium Income Municipal Fund
+NOW	American International Group Inc.
+NOX	Neuberger Berman Income Opportunity Fund Inc.
+NPG	Nuveen Georgia Premium Income Municipal Fund
+NRB	Nuveen North Carolina Dividend Advantage Municipal Fund
+NRK	Nuveen Insured New York Tax-Free Advantage Municipal Fund
+NRO	Neuberger Berman Real Estate Securities Income Fund Inc.
+NSU	Nevsun Resources Ltd
+NTN	NTN Buzztime Inc.
+NTQ	NTR Acquisition Co
+NTQ.U	NTR Acquisition Co
+NUJ	Nuveen New Jersey Dividend Advantage Municipal Fund 2
+NVD	Novadel Pharma Inc
+NVG	Nuveen Insured Dividend Advantage Municipal Fund
+NVJ	Nuveen Ohio Dividend Advantage Municipal Fund 3
+NVX	Nuveen California Dividend Advantage Municipal Fund 2
+NVY	Nuveen Pennsylvania Dividend Advantage Municipal Fund 2
+NWD	New Dragon Asia Corporation
+NWF	Nuveen Insured Florida Tax-Free Advantage Municipal Fund
+NWI	Nuveen Maryland Dividend Advantage Municipal Fund 3
+NXE	Nuveen Arizona Dividend Advantage Municipal Fund 3
+NXG	Northgate Minerals Corporation
+NXI	Nuveen Ohio Dividend Advantage Municipal Fund
+NXJ	Nuveen New Jersey Dividend Advantage Municipal Fund
+NXK	Nuveen New York Dividend Advantage Municipal Fund 2
+NXM	Nuveen Pennsylvania Dividend Advantage Municipal Fund
+NXZ	Nuveen Dividend Advantage Municipal Fund 2
+NY	ISHARES NYSE 100 IDX
+NYC	ISHARES NYSE CMP IDX
+NYF	iShares Trust
+NYH	Eaton Vance Insured New York Municipal Bond Fund II
+NYW	Merrill Lynch & Co. Inc.
+NZ	NETEZZA CORPORATION
+NZF	Nuveen Dividend Advantage Municipal Fund 3
+NZH	Nuveen California Dividend Advantage Municipal Fund 3
+NZR	Nuveen Maryland Dividend Advantage Municipal Fund 2
+NZW	Nuveen Michigan Dividend Advantage Municipal Fund
+NZX	Nuveen Georgia Dividend Advantage Municipal Fund
+ODY	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+OEF	Ishares S&p 100 Index Fund
+OFI	Overhill Farms Inc.
+OHB	Orleans Homebuilders Inc.
+OIH	Merrill Lynch Market Oil Service HOLDRS
+OIL	IPATH ETN CRUDE OIL
+OKN	Oceanaut Inc.
+OKN.W	Oceanaut Inc.
+OLE	9.25 STRIDES ORACLE
+OLO	POWERSHARES DB CRUDE
+ONT	On2 Technologies Inc.
+OOO	SPDR O-Strip Exchange Traded Fund
+OOO.U	Stream Global Services Inc
+OOO.W	Stream Global Services Inc
+OPK	Opko Health Inc
+ORS	Orsus Xelent Technolgies Inc.
+OTP	Claymore Exchange-Traded Fund Trust
+OTR	Claymore Exchange-Traded Fund Trust
+OZN	Orezone Res Inc
+PAE	Peace Arch Entertainment Group Inc.
+PAF	PS FTSE RAFI EX JP
+PAL	North American Palladium Ltd.
+PAL.W	North American Palladium Ltd.
+PAO	PowerShares Exchange-Traded Fund Trust
+PAX	Prospect Acquisition Corporation
+PAX.U	Prospect Acquisition Corporation
+PAX.W	Prospect Acquisition Corporation
+PBA	Citigroup Inc.
+PBD	PowerShares Exchange-Traded Fund Trust
+PBE	PowerShares Exchange-Traded Fund Trust
+PBJ	PowerShares Exchange-Traded Fund Trust
+PBM	Pacific Booker Minerals Inc
+PBP	POWERSHARES S& P 500
+PBS	PowerShares Exchange-Traded Fund Trust
+PBW	PowerShares Exchange-Traded Fund Trust
+PCA	PowerShares Exchange-Traded Fund Trust
+PCC	PMC Commercial Trust
+PCE	Arizona Land Income Corporation
+PCG-A	Pacific Gas & Electric Co.
+PCG-B	Pacific Gas & Electric Co.
+PCG-C	Pacific Gas & Electric Co.
+PCG-D	Pacific Gas & Electric Co.
+PCG-E	Pacific Gas & Electric Co.
+PCG-G	Pacific Gas & Electric Co.
+PCG-H	Pacific Gas & Electric Co.
+PCO	Citigroup Inc.
+PCY	PowerShares Exchange-Traded Fund Trust
+PDC	Pioneer Drilling Co
+PDL.B	Presidential Realty Corporation
+PDN	PowerShares Exchange-Traded Fund Trust
+PDO	Pyramid Oil Co
+PDP	PS DWA TEC LDR PFL
+PDQ	PowerShares Exchange-Traded Fund Trust
+PDW	Citigroup Inc.
+PDY	Citigroup Inc.
+PED	Petroflow Energy Ltd.
+PEF	PS FTSE RAFI EUROPE
+PEH	PowerShares Exchange-Traded Fund Trust
+PEJ	PowerShares Exchange-Traded Fund Trust
+PEL	Morgan Stanley
+PET-A	Pacific Enterprises
+PET-B	Pacific Enterprises
+PET-C	Pacific Enterprises
+PEX	Apex Bioventures Acquisition Corporation
+PEX.U	Apex Bioventures Acquisition Corporation
+PEX.W	Apex Bioventures Acquisition Corporation
+PEY	PowerShares High Yield Equity Dividend Achievers Portfolio
+PEZ	PowerShares Exchange-Traded Fund Trust
+PFA	PowerShares Exchange-Traded Fund Trust
+PFF	iShares Trust
+PFI	PowerShares Exchange-Traded Fund Trust
+PFM	PowerShares Exchange-Traded Fund Trust
+PFP	PowerShares Exchange-Traded Fund Trust
+PFT	Citigroup Inc.
+PGD	BARCLAYS PLC
+PGF	PowerShares Exchange-Traded Fund Trust
+PGJ	PowerShares Golden Dragon Halter USX China Portfolio
+PGM	IPATH DJ-AIG PLATINU
+PGV	VELOCITY PORTFOLIO
+PGV.P	VELOCITY PTFL SRS A
+PGX	PowerShares Exchange-Traded Fund Trust
+PGZ	PowerShares Exchange-Traded Fund Trust
+PHB	PowerShares Exchange-Traded Fund Trust
+PHC	PHC Inc.
+PHF	Pacholder High Yield Fund Inc.
+PHJ	PowerShares Exchange-Traded Fund Trust
+PHO	PowerShares Exchange-Traded Fund Trust
+PHW	PowerShares Exchange-Traded Fund Trust
+PIC	PowerShares Exchange-Traded Fund Trust
+PID	PowerShares Exchange-Traded Fund Trust
+PIE	POWERSHARES DWA EMER
+PIN	POWERSHARES INDIA
+PIO	PowerShares Exchange-Traded Fund Trust
+PIP	PharmAthene Inc
+PIP.W	PharmAthene Inc
+PIQ	PowerShares Exchange-Traded Fund Trust
+PIV	PowerShares Exchange-Traded Fund Trust
+PIZ	POWERSHARES DWA DEV
+PJB	PowerShares Exchange-Traded Fund Trust
+PJF	PowerShares Exchange-Traded Fund Trust
+PJG	PowerShares Exchange-Traded Fund Trust
+PJM	PowerShares Exchange-Traded Fund Trust
+PJO	PS FTSE RAFI JAPAN
+PJP	PowerShares Exchange-Traded Fund Trust
+PKB	PowerShares Exchange-Traded Fund Trust
+PKN	POWERSHARES GLOBAL
+PKT	Procera Networks Inc.
+PKW	PowerShares Exchange-Traded Fund Trust
+PLG	Platinum Group Metals Ltd.
+PLI	Proliance International Inc.
+PLK	POWERSHARES ACT LOW
+PLM	Polymet Mining Corp.
+PLR	Citigroup Inc.
+PLW	PowerShares Exchange-Traded Fund Trust
+PLX	Protalix BioTherapeutics Inc.
+PMA	POWERSHARES MEGA-CAP
+PMK	PMA Capital Corporation
+PMR	PowerShares Exchange-Traded Fund Trust
+PMU	Pacific Rim Mining Corp New
+PMY	CREDIT SUISSE ELEMEN
+PNJ	Citigroup Inc.
+PNS	Pinnacle Data Systems Inc.
+PPA	PowerShares Exchange-Traded Fund Trust
+PPH	Merrill Lynch Pharmaceutical HOLDRS
+PPI	Citigroup Inc.
+PPJ	Citigroup Inc.
+PPK	Citigroup Inc.
+PPN	Citigroup Inc.
+PPW.P	PacifiCorp
+PPY	Morgan Stanley
+PQU	Citigroup Inc.
+PQY	POWERSHARES ALPHA Q
+PQZ	POWERSHARES MULTICAP
+PRC	Petro Resources Corporation
+PRF	PS FTSE RAFI US 1000
+PRK	Park National Corporation
+PRN	PowerShares Exchange-Traded Fund Trust
+PRW	Pro-Pharmaceuticals Inc.
+PRY	POWERSHARES FTSE RAF
+PSI	PowerShares Exchange-Traded Fund Trust
+PSJ	PowerShares Exchange-Traded Fund Trust
+PSL	PowerShares Exchange-Traded Fund Trust
+PSP	PowerShares Exchange-Traded Fund Trust
+PSQ	ProShares Trust
+PSR	POWERSHARES US REAL
+PST	ProShares Trust
+PTD	E-TRACS UBS SHRT ETN
+PTE	PowerShares Exchange-Traded Fund Trust
+PTF	PowerShares Exchange-Traded Fund Trust
+PTG	Paragon Technologies Inc.
+PTH	PowerShares Exchange-Traded Fund Trust
+PTJ	PowerShares Exchange-Traded Fund Trust
+PTM	E-TRACS UBS BLOOMBER
+PTN	Palatin Technologies Inc.
+PTO	PowerShares Exchange-Traded Fund Trust
+PTS	Citigroup Inc.
+PUA	PowerShares Exchange-Traded Fund Trust
+PUI	PowerShares Exchange-Traded Fund Trust
+PUW	PowerShares Exchange-Traded Fund Trust
+PVI	PowerShares Exchange-Traded Fund Trust
+PVM	PowerShares Exchange-Traded Fund Trust
+PW	Pittsburgh & West Virginia Railroad
+PWB	PowerShares Exchange-Traded Fund Trust
+PWC	Power XTF: Dynamic Market Portfolio
+PWD	PowerShares Exchange-Traded Fund Trust
+PWJ	PowerShares Exchange-Traded Fund Trust
+PWO	Power XTF: Dynamic OTC Portfolio
+PWP	PowerShares Exchange-Traded Fund Trust
+PWT	PowerShares Exchange-Traded Fund Trust
+PWV	PowerShares Exchange-Traded Fund Trust
+PWY	PowerShares Exchange-Traded Fund Trust
+PWZ	PowerShares Exchange-Traded Fund Trust
+PXE	PowerShares Exchange-Traded Fund Trust
+PXF	PS FTSE RAFI EX US
+PXG	Phoenix Footwear Group Inc.
+PXH	PowerShares Exchange-Traded Fund Trust
+PXI	PowerShares Exchange-Traded Fund Trust
+PXJ	PowerShares Exchange-Traded Fund Trust
+PXN	PowerShares Exchange-Traded Fund Trust
+PXQ	PowerShares Exchange-Traded Fund Trust
+PXR	POWERSHARES EMR
+PYH	PowerShares Exchange-Traded Fund Trust
+PYZ	PowerShares Exchange-Traded Fund Trust
+PZA	PowerShares Exchange-Traded Fund Trust
+PZD	PowerShares Exchange-Traded Fund Trust
+PZG	Paramount Gold and Silver Corp.
+PZI	PowerShares Exchange-Traded Fund Trust
+PZJ	PowerShares Exchange-Traded Fund Trust
+PZT	PowerShares Exchange-Traded Fund Trust
+PZZ	Prospect Medical Hldgs Inc
+QBC	Cubic Energy Inc
+QCC	Quest Cap Corp New
+QGP	Quantum Group Inc. (The)
+QGP.A	Quantum Group Inc. (The)
+QGP.B	Quantum Group Inc. (The)
+QID	ProShares Trust
+QKP	Merrill Lynch & Co. Inc.
+QLD	ProShares Trust
+QMM	Quaterra Resources Inc
+RAA	BlackRock California Investment Quality Municipal Trust Inc.
+RAE	RAE Systems Inc
+RAF	RMR Asia Real Estate Fund
+RAK	Renaissance Acquisition Corp
+RAK.W	Renaissance Acquisition Corp
+RAP	RMR Asia Pacific Real Estate Fund
+RBY	Rubicon Minerals Corp
+RCD	Rydex ETF Trust
+RCG	Renaissance Capital Growth & Income Fund III Inc.
+RCR	RMR Dividend Capture Fund
+RCW	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+RDF	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+RDI	Reading International Inc
+RDI.B	Reading International Inc
+RDR	RMR Preferred Dividend Fund
+REA	Rydex ETF Trust
+REC	Rydex ETF Trust
+REM	ISHS FTS NRT MTG RTS
+RER	Merrill Lynch & Co. Inc.
+RET	MERRILL LYNCH
+REU	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+REW	ProShares Trust
+REZ	ISHS FTSE NRT RES ID
+RFA	BlackRock Florida Investment Quality Municipal Trust Inc. (The
+RFG	Rydex ETF Trust
+RFL	Rydex ETF Trust
+RFN	Rydex ETF Trust
+RFR	RFR F.I.R.E. Fund
+RFV	Rydex ETF Trust
+RFW	RUSSELL 2000 IDX CAP
+RGI	Rydex ETF Trust
+RGN	Regenerx Biopharmaceuticals Inc
+RHM	Rydex ETF Trust
+RHO	Rydex ETF Trust
+RHQ	Merrill Lynch & Co. Inc.
+RHR	RMR Hospitality and Real Estate Fund
+RHS	Rydex ETF Trust
+RIC	Richmont Mines Inc.
+RIV	Riviera Holdings Corporation
+RJA	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+RJI	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+RJN	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+RJZ	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+RKH	Merrill Lynch Regional Bank HOLDRS
+RLL	Morgan Stanley
+RLO	Merrill Lynch & Co. Inc.
+RMM	Rydex ETF Trust
+RMR	RMR Real Estate Fund
+RMS	Rydex ETF Trust
+RMX	Ready Mix Inc.
+RNJ	BlackRock New Jersey Investment Quality Municipal Trust Inc.
+RNN	Rexahn Pharmaceuticals Inc.
+RNY	BlackRock New York Investment Quality Municipal Trust Inc. (Th
+ROB	CLAYMORE/ROBB REPORT GLOBAL LU
+ROI	WISDOMTREE
+ROM	ProShares Trust
+ROX	Castle Brands Inc.
+ROY	International Realty Corporation
+RPG	Rydex ETF Trust
+RPI	Roberts Realty Investors Inc.
+RPV	Rydex ETF Trust
+RRM	Merrill Lynch & Co. Inc.
+RRY	Rydex ETF Trust
+RRZ	Rydex ETF Trust
+RSP	Rydex ETF Trust
+RSU	Rydex ETF Trust
+RSW	Rydex ETF Trust
+RSX	MKT VCTR RUSSIA SBI
+RSY	Merrill Lynch & Co. Inc.
+RTG	Rydex ETF Trust
+RTH	Merrill Lynch Retail HOLDRS
+RTK	Rentech Inc.
+RTL	ISHS FTSE NRT RTL ID
+RTM	Rydex ETF Trust
+RTR	REVENUESHARES ADR FD
+RTS	Merrill Lynch & Co. Inc.
+RTW	Rydex ETF Trust
+RUD	Citigroup Inc.
+RVP	Retractable Technologies Inc.
+RVR	White River Capital Inc.
+RWC	RELM Wireless Corporation
+RWJ	REVENUESHARES SM CP
+RWK	REVENUESHARES MD CP
+RWL	REVENUESHARES LG CP
+RWM	ProShares Trust
+RWO	SPDR Index Fund
+RWR	streetTRACKS Wilshire REIT Index Fund
+RWV	REVENUESHARES NAVELL
+RWW	REVENUESHARES
+RWX	streetTRACKS Index Funds
+RXB	Morgan Stanley Dean Witter & Co.
+RXD	ProShares Trust
+RXI	ISHARES S& P GLOBAL C
+RXL	ProShares Trust
+RXY	MERRILL LYNCH
+RYE	Rydex ETF Trust
+RYF	Rydex ETF Trust
+RYH	Rydex ETF Trust
+RYJ	CLAYMORE/RAJA EQ FD
+RYT	Rydex ETF Trust
+RYU	Rydex ETF Trust
+RZG	Rydex ETF Trust
+RZI	Merrill Lynch & Co. Inc.
+RZV	Rydex ETF Trust
+RZY	Merrill Lynch & Co. Inc.
+SA	Seabridge Gold Inc.
+SAA	ProShares Trust
+SAD	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+SAL	Salisbury Bancorp Inc.
+SAR	Merrill Lynch & Co. Inc.
+SBB	ProShares Trust
+SBG	WESTERN ASSET 2008 W
+SBI	Western Asset Intermediate Muni Fund Inc
+SBL	MERRILL LYNCH
+SBN	SoftBrands Inc.
+SCC	ProShares Trust
+SCE-B	Southern California Edison Company
+SCE-C	Southern California Edison Company
+SCE-D	Southern California Edison Company
+SCE-E	Southern California Edison Company
+SCJ	ISHARES MSCI JPN SC
+SCO	PROSHARES ULTRASHORT DJ-AIG CRU
+SCZ	ISHARES MSCI EAFE SM
+SDD	ProShares Trust
+SDG	PROTECTED ABSOLUTE
+SDK	ProShares Trust
+SDO-A	San Diego Gas & Electric Company
+SDO-B	San Diego Gas & Electric Company
+SDO-C	San Diego Gas & Electric Company
+SDO-H	San Diego Gas & Electric Company
+SDP	ProShares Trust
+SDS	ProShares Trust
+SDY	SPDR Series Trust
+SEA	Star Maritime Acquistion Corp
+SEB	Seaboard Corporation
+SEF	ProShares Trust
+SEM	Morgan Stanley
+SFA	MERRILL LYNCH
+SFH	Citigroup Inc.
+SFK	ProShares Trust
+SFO	MERRILL LYNCH
+SFV	SPA ETF Trust
+SGB	Southwest Georgia Financial Corporation
+SGG	IPATH DOW JONES-AIG SUGAR TOTAL
+SGH	SWEDISH EXPORT
+SGT	NETS Trust
+SH	ProShares Trust
+SHJ	Merrill Lynch & Co. Inc.
+SHM	SPDR Series Trust
+SHV	ISHARES LEHMAN SHORT
+SHY	Ishares Lehman 1-3 Year Treasury Bond Fund
+SHZ	China Shen Zhou Mining & Resources Inc.
+SIF	SIFCO Industries Inc.
+SIH	SPA ETF Trust
+SIJ	ProShares Trust
+SIL	Apex Silver Mines
+SIM	Grupo Simec S.A. de C.V.
+SIT	Merrill Lynch & Co. Inc.
+SJD	BAN
+SJF	ProShares Trust
+SJH	ProShares Trust
+SJL	ProShares Trust
+SJO	MERRILL LYNCH
+SJP	Citigroup Inc.
+SKC	STOCK MARKET UPTURN NOTES BASE
+SKE	Morgan Stanley
+SKF	ProShares Trust
+SKK	ProShares Trust
+SKP	MERRILL LYNCH
+SLI	SL Industries Inc.
+SLV	iShares Silver Trust
+SLX	Market Vectors ETF Trust
+SLZ	Morgan Stanley
+SMB	Market Vectors ETF Trust
+SMC	Central Sun Mining Inc
+SMD	Singing Machine Company Inc. (The)
+SMH	Merrill Lynch Semiconductor HOLDRS
+SMM	SMM
+SMN	ProShares Trust
+SNB	SPA ETF Trust
+SNG	Canadian Superior Energy Inc
+SNO	NETS HANG SENG INDEX
+SNR	Sunair Services Corporation
+SNT	Senesco Technologies Inc
+SOC	Stoneleigh Partners Acquisition Corp
+SOC.U	Stoneleigh Partners Acquisition Corp
+SOC.W	Stoneleigh Partners Acquisition Corp
+SOG	Citigroup Inc.
+SOM	MERRILL LYNCH
+SOU	Morgan Stanley
+SPD	SPX ARN
+SPI	MERRILL LYNCH
+SPO	Citigroup Inc.
+SPU	Citigroup Inc.
+SPY	SPDR Trust Series I
+SQD	MERRILL LYNCH
+SQT	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+SRO	Scudder RREEF Real Estate Fund II Inc.
+SRQ	Scudder RREEF Real Estate Fund Inc.
+SRS	ProShares Trust
+SRU	Citigroup Inc.
+SSE	Southern Connecticut Bancorp Inc
+SSG	ProShares Trust
+SSK	SPA ETF Trust
+SSM	Merrill Lynch & Co. Inc.
+SSN	Samson Oil & Gas
+SSO	ProShares Trust
+SSY	SunLink Health Systems Inc.
+STF	Merrill Lynch & Co. Inc.
+STH	Claymore Exchange-Traded Fund Trust
+STS	Supreme Industries Inc.
+SUB	ISHARES
+SUF	Sulphco Inc.
+SUO	Morgan Stanley
+SVA	Sinovac Biotech Ltd.
+SVC	MERRILL LYNCH
+SVD	SPA ETF Trust
+SVE	Citigroup Inc.
+SVG	Morgan Stanley
+SVQ	MERRILL LYNCH
+SVT	Servotronics Inc.
+SWH	Merrill Lynch Software HOLDRS
+SXF	MEERRILL LYNCH
+SXU	Merrill Lynch & Co. Inc.
+SYI	Synvista Therapeutics Inc
+SYP	Citigroup Inc.
+SZG	SPA ETF Trust
+SZI	AB Svensk Ekportkredit (Swedish Export Credit Corporation)
+SZK	ProShares Trust
+SZL	Merrill Lynch & Co. Inc.
+SZM	ACC RT NT SP MID 400
+SZO	POWERSHARES DB CRUDE
+SZR	WISDOMTREE DREYFUS
+SZX	Merrill Lynch & Co. Inc.
+TA	TravelCenters of America LLC
+TAN	CLAYMORE/MAC GLOBAL
+TAO	CLAYMORE/ALPHASHARES
+TAQ	Transforma Acquisition Group
+TAV	NETS TA-25 INDEX FD
+TBT	ProShares Trust
+TBV	Tiens Biotech Group (USA) Inc.
+TCW	Triplecrown Acquisition Corp.
+TCW.U	Triplecrown Acquisition Corp.
+TCW.W	Triplecrown Acquisition Corp.
+TCX	Tucows Inc
+TDD	TDAX INDEPENDNC 2010
+TDH	TARGETS TRUST IX
+TDN	Citigroup Global Markets Holdings Inc
+TDV	TDAX INDEPENDNC 2040
+TDX	TDAX INDEPENDENC ETF
+TF	Thai Capital Fund Inc
+TFI	SPDR Series Trust
+TGB	Taseko Mines
+TGC	Tengasco Inc.
+TGY	Tremisis Energy Acquisition Corporation II
+TGY.U	Tremisis Energy Acquisition Corporation II
+TGY.W	Tremisis Energy Acquisition Corporation II
+THD	ISHARES MSCI THAILAN
+THM	International Tower Hill Mines Ltd
+TIK	Tel-Instrument Electronics Corp.
+TIL	Trans-India Acquisition Corporation
+TIL.U	Trans-India Acquisition Corporation
+TIL.W	Trans-India Acquisition Corporation
+TIP	ISHARES LEHMAN TIPS
+TIS	Orchids Paper Products Company
+TIV	Tri-Valley Corporation
+TKO	Telkonet Inc.
+TKP	Polaris Acquisition Corporation
+TKP.U	Polaris Acquisition Corporation
+TKP.W	Polaris Acquisition Corporation
+TLF	Tandy Leather Factory Inc.
+TLH	ISHARES LEHMAN 10-20
+TLL	ProShares Trust
+TLO	SPDR Series Trust
+TLR	Timberline Resources Corporation
+TLT	Ishares Lehman 20 Year Treasury Bond Fund
+TLX	Trans-Lux Corporation
+TMI	TM Entertainment and Media Inc.
+TMI.U	TM Entertainment and Media Inc.
+TMI.W	TM Entertainment and Media Inc.
+TMP	TompkinsTrustco Inc.
+TMW	FORTUNE 500 Index Tracking Stock
+TNA	SMALL CAP BULL 3X
+TNF	Tailwind Financial Inc
+TNF.U	Tailwind Financial Inc
+TNF.W	Tailwind Financial Inc
+TOF	Tofutti Brands Inc.
+TOH	Hicks Acquisition Company I  Inc.
+TOH.U	Hicks Acquisition Company I  Inc.
+TOH.W	Hicks Acquisition Company I  Inc.
+TOK	ISHARES MSCI KOKUSAI
+TPA	Morgan Stanley Dean Witter & Co.
+TPI	Citigroup Global Markets Holdings Inc
+TQ	Cash Technologies Inc.
+TQK	Morgan Stanley
+TRE	Tanzanian Royalty Exploration Corporation
+TRT	Trio-Tech International
+TSC	Stephan Company (The)
+TSH	Teche Holding Company
+TTH	Merrill Lynch Telecom HOLDRS
+TTP	Titan Pharmaceuticals Inc.
+TTY	2020 ChinaCap Acquirco Inc
+TTY.U	2020 ChinaCap Acquirco Inc
+TTY.W	2020 ChinaCap Acquirco Inc
+TUR	ISHARES MSCI TURKEY
+TUX	Trian Acquisition I Corp.
+TUX.U	Trian Acquisition I Corp.
+TUX.W	Trian Acquisition I Corp.
+TVH	Media & Entertainment Holdings Inc
+TVH.W	Media & Entertainment Holdings Inc
+TWM	ProShares Trust
+TYH	TECHNOLOGY BULL 3X
+TYI	NETS TOPIX INDEX JPN
+TYM	ASIA TIME CORP
+TYP	TECHNOLOGY BEAR 3X
+TZA	SMALL CAP BEAR 3X
+TZD	SHARES
+TZG	ISHARES
+TZI	ISHARES
+TZL	ISHARES
+TZO	ISHARES
+TZV	ISHARES
+UAG	E-TRACS UBS BLOOMBER
+UBC	E-TRACS UBS BLOOMBER
+UBD	Claymore Exchange-Traded Fund Trust
+UBG	E-TRACS UBS BLOOMBER
+UBM	E-TRACS UBS BLOOMBER
+UBN	E-TRACS UBS BLOOMBER
+UCC	ProShares Trust
+UCD	PROSHS ULTRA DJ-AIG
+UCI	E-TRACS UBS BLOOMBER
+UCO	PROSH ULTRA DJ CRUDE
+UDN	POWERSHARES DB US DOLLAR INDEX BULLISH FUND
+UDW	US Dataworks Inc
+UEC	Uranium Energy Corp.
+UEM	Claymore Exchange-Traded Fund Trust
+UG	United-Guardian Inc.
+UGA	United States Gasoline Fund
+UGE	ProShares Trust
+UGL	PROSHARES
+UHN	United States Heating Oil Fund LP
+UKF	ProShares Trust
+UKK	ProShares Trust
+UKW	ProShares Trust
+ULE	PROSHARES ULTRA EURO
+ULQ	Claymore Exchange-Traded Fund Trust
+ULU	Uluru Inc.
+UMH	UMH Properties Inc.
+UNG	United States Natural Gas Fund LP
+UOY	MACROshares $100 Oil Up Trust
+UPG	Universal Power Group Inc
+UPI	Uroplasty Inc.
+UPW	ProShares Trust
+UQM	UQM TECHNOLOGIES INC
+URE	ProShares Trust
+URG	Ur Energy Inc
+URR	MORGAN STANLEY
+URX	United Refining Energy Corp
+URX.U	United Refining Energy Corp
+URX.W	United Refining Energy Corp
+URZ	Uranerz Energy Corporation
+USD	ProShares Trust
+USL	United States 12 Month Oil Fund LP
+USO	United States Oil Fund LP
+USV	E-TRACS UBS BLOOMBER
+USY	WISDOMTREE U.S. CURR
+UTG	Reaves Utility Income Fund
+UTH	Merrill Lynch Utilities HOLDRS
+UTK	UTEK Corporation
+UUD	Merrill Lynch & Co. Inc.
+UUP	POWERSHARES DB US DOLLAR INDEX BULLISH FUND
+UUU	Universal Security Instruments Inc.
+UUY	Merrill Lynch & Co. Inc.
+UVE	UNIVERSAL IURANCE HOLDINGS INC
+UVG	ProShares Trust
+UVT	ProShares Trust
+UVU	ProShares Trust
+UWM	ProShares Trust
+UWN	Nevada Gold & Casinos Inc.
+UXG	U.S. Gold Corporation
+UXI	ProShares Trust
+UYG	ProShares Trust
+UYM	ProShares Trust
+VAW	Vanguard Materials ETF
+VAZ	Delaware Investments Arizona Municipal Income Fund Inc.
+VB	Vanguard Small-Cap ETF
+VBK	Vanguard Small-Cap Growth ETF
+VBR	Vanguard Small-Cap Value ETF
+VCF	Delaware Investments Colorado Municipal Income Fund Inc
+VCR	Vanguard Consumer Discretionary ETF
+VDC	Vanguard Consumer Staples ETF
+VDE	Vanguard Energy ETF
+VEA	Vanguard Tax-Managed Funds
+VEU	Vanguard FTSE All World Ex US ETF
+VFH	Vanguard Financials ETF
+VFL	Delaware Investments Florida Insured Municipal Income Fund
+VGK	Vanguard European ETF
+VGT	Vanguard Information Technology ETF
+VGZ	Vista Gold Corporation
+VHC	VirnetX Holding Corp
+VHT	Vanguard Health Care ETF
+VIG	Vanguard Dividend Appreciation ETF
+VII	Vicon Industries Inc
+VIS	Vanguard Industrials ETF
+VKI	Van Kampen Advantage Municipal Income Trust II
+VKL	Van Kampen Select Sector Municipal Trust
+VMM	Delaware Investments Minnesota Municipal Income Fund II Inc.
+VMV	Van Kampen Massachusetts Value Municipal Income Trust
+VNQ	Vanguard REIT ETF
+VNR	VANGUARD NATURAL RES
+VO	Vanguard Mid-Cap ETF
+VOE	Vanguard Mid-Cap Value ETF
+VOT	Vanguard Mid-Cap Growth ETF
+VOX	Vanguard Telecommunication Services ETF
+VPL	Vanguard Pacific ETF
+VPS	Vermont Pure Holdings Ltd.
+VPU	Vanguard Utilities ETF
+VRY	Victory Acquisition Corp
+VRY.U	Victory Acquisition Corp
+VRY.W	Victory Acquisition Corp
+VSR	Versar Inc.
+VT	VANGUARD TOTAL WORLD
+VTG	Vantage Drilling Company
+VTG.U	Vantage Drilling Company
+VTG.W	Vantage Drilling Company
+VTI	Vanguard Total Stock Market ETF
+VTV	Vanguard Value ETF
+VUG	Vanguard Growth ETF
+VV	Vanguard Large-Cap ETF
+VWO	Vanguard Emerging Markets ETF
+VXC-D	Vineyard National Bancorp
+VXF	Vanguard Extended Market ETF
+VXX	IPATH S& P 500 VIX SHORT   -TERM
+VXZ	IPATH S& P 500 VIX MID-T   ERM F
+VYM	Vanguard High Dividend Yield ETF
+WEL	Boots and Coots International Well Control  Inc.
+WEX	Winland Electronics Inc.
+WGA	Wells-Gardner Electronics Corporation
+WGW	Western Goldfields Inc. (Canada)
+WIP	SPDR Series Trust
+WIS.P	Wisconsin Power & Light Co.
+WLB	Westmoreland Coal Company
+WLB.P	Westmoreland Coal Company
+WMH	Merrill Lynch Wireless HOLDRS
+WMW	DEUTSHE BANK AG ELEM
+WOC	Wilshire Enterprises Inc
+WPS	ISHARES S& P WLD X-US
+WSC	Wesco Financial Corporation
+WSO.B	Watsco Inc.
+WTT	Wireless Telecom Group  Inc.
+WVK	Morgan Stanley
+WYY	WidePoint Corporation
+WZE	WIZZARD SOFTWARE CORPORATION
+XBI	SPDR Series Trust
+XCR	Xcorporeal Inc.
+XES	SPDR Series Trust
+XFN	Xfone Inc.
+XGC	Claymore Exchange-Traded Fund Trust
+XHB	SPDR Series Trust
+XLB	Select Sector SPDR Fund - Basic Industries
+XLE	Select Sector SPDR Fund - Energy Select Sector
+XLF	Select Sector SPDR Fund - Financial
+XLG	Rydex ETF Trust
+XLI	Select Sector SPDR Fund - Industrial
+XLK	Select Sector SPDR Fund - Technology
+XLP	Select Sector SPDR Fund - Consumer Staples
+XLU	Select Sector SPDR Fund - Utilities
+XLV	Select Sector SPDR Fund - Health Care
+XLY	Select Sector SPDR Fund - Consumer Discretionary
+XME	SPDR Series Trust
+XNN	Xenonics Holdings Inc.
+XOP	SPDR Series Trust
+XPH	SPDR Series Trust
+XPL	Solitario Exploration & Royalty Corp
+XPO	Express-1 Expedited Solutions Inc.
+XRA	Exeter Resource Corporation
+XRO	Claymore Exchange-Traded Fund Trust
+XRT	SPDR Series Trust
+XRU	CURRENCYSHARES
+XSD	SPDR Series Trust
+XUF	Merrill Lynch & Co. Inc.
+YCL	PROSHARES ULTRA YEN
+YCS	PROSHS ULTRASHRT YEN
+YMI	YM BioSciences Inc.
+ZBB	ZBB Energy Corporation
+ZN	Zion Oil & Gas Inc
+ZN.W	ZION O
+ZSL	PROSHARES

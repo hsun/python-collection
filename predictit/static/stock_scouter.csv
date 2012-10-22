@@ -1,0 +1,550 @@
+RYN,Ownership
+AGN,Growth
+CPK,Value
+JBHT,Transportation
+LSTR,Transportation
+NDSN,Mid
+UBCP,Finance
+CPA,Transportation
+GTIV,Value
+EXLP,Energy
+YUM,Consumer Services
+EOG,Energy
+CNQR,Mid
+ACET,Value
+BWP,Mid
+PMACA,Value
+SPW,Consumer Durables
+LUFK,Energy
+TAL,Transportation
+ALDA,Consumer Durables
+PKG,Basic Industries
+ENDP,Mid
+RJET,Transportation
+ADTN,Technology
+FIX,Consumer Services
+GG,Basic Industries
+FLXS,Consumer Durables
+GD,Capital Goods
+BECN,Basic Industries
+VAR,Large
+GIL,Consumer Non-Durables
+ALK,Transportation
+WW,Consumer Services
+GMT,Mid
+SNE,Consumer Durables
+MAT,Consumer Non-Durables
+PACR,Transportation
+SNA,Consumer Durables
+CTCT,Growth
+MAD,Basic Industries
+MAG,Capital Goods
+JNJ,Healthcare
+MAM,Public Utility
+PRPX,Transportation
+ENZN,Small
+LMT,Capital Goods
+CME,Large
+PAYX,Consumer Services
+BEZ,Value
+ASEI,Capital Goods
+LDSH,Basic Industries
+PCL,Basic Industries
+CMS,Value
+IDCC,Mid
+CMP,Basic Industries
+GHDX,Small
+UVV,Consumer Non-Durables
+TTC,Consumer Durables
+VTAL,Ownership
+ZN,Energy
+IGT,Consumer Durables
+KNSY,Healthcare
+WGL,Public Utility
+JAKK,Consumer Non-Durables
+BLL,Basic Industries
+DLM,Value
+BLK,Growth
+FTO,Energy
+BKBK,Ownership
+OKS,Energy
+NMM,Transportation
+INT,Value
+SBSI,Technical
+VPHM,Healthcare
+TJX,Consumer Services
+NUAN,Technology
+PRGX,Consumer Services
+EWST,Value
+ACIW,Technology
+RES,Energy
+REV,Value
+AMGN,Large
+GLF,Energy
+RAVN,Ownership
+BZC,Capital Goods
+FE,Large
+CTB,Consumer Durables
+CTL,Public Utility
+GLT,Value
+SNHY,Consumer Durables
+FO,Consumer Non-Durables
+PTNR,Public Utility
+SCHS,Consumer Durables
+POWR,Energy
+LFL,Transportation
+VLCCF,Transportation
+JST,Small
+GGG,Capital Goods
+WHR,Consumer Durables
+FMS,Healthcare
+MVL,Mid
+ADPT,Technology
+NTAP,Mid
+ALE,Public Utility
+ICGE,Consumer Services
+NTT,Value
+MMR,Energy
+SM,Energy
+ALV,Consumer Durables
+ORB,Capital Goods
+PSEC,Small
+ADBE,Growth
+BAS,Energy
+DECK,Mid
+CAS,Basic Industries
+CLNE,Public Utility
+NAFC,Consumer Services
+CRXL,Healthcare
+KSWS,Small
+TOL,Consumer Durables
+TOD,Capital Goods
+PPDI,Consumer Services
+INCY,Healthcare
+KFY,Consumer Services
+GXDX,Healthcare
+OUTD,Small
+A,Large
+ABC,Healthcare
+LG,Public Utility
+HGT,Mid
+NSANY,Consumer Durables
+HAE,Healthcare
+PBNY,Small
+YPF,Energy
+ABX,Basic Industries
+XOM,Energy
+WCN,Capital Goods
+PNY,Public Utility
+FTGX,Small
+GENZ,Healthcare
+ALKS,Mid
+CERN,Mid
+OLBK,Finance
+CALM,Value
+FFEX,Transportation
+FIZZ,Consumer Non-Durables
+EGY,Energy
+VFC,Consumer Non-Durables
+EGO,Basic Industries
+KALU,Basic Industries
+LINC,Consumer Services
+WTR,Public Utility
+EXTR,Value
+ALCO,Consumer Non-Durables
+CHB,Consumer Durables
+URBN,Consumer Services
+CHH,Mid
+ATAC,Consumer Durables
+DMAN,Growth
+HRL,Consumer Non-Durables
+CHT,Large
+FMER,Mid
+AYR,Transportation
+NPK,Consumer Durables
+OZRK,Small
+LAKE,Consumer Non-Durables
+TYC,Capital Goods
+SFL,Transportation
+APC,Energy
+APD,Large
+KSU,Transportation
+YSI,Consumer Services
+KSP,Transportation
+ATSI,Growth
+TWER,Consumer Services
+IFF,Consumer Non-Durables
+COLM,Consumer Non-Durables
+CHTT,Mid
+LNCR,Mid
+CCU,Mid
+DMND,Consumer Non-Durables
+RTN,Capital Goods
+CVGW,Small
+DBTK,Growth
+PKD,Energy
+BMY,Large
+ASML,Large
+DLB,Technology
+ENB,Public Utility
+CSH,Mid
+SHW,Basic Industries
+EE,Public Utility
+ENI,Public Utility
+GCO,Consumer Non-Durables
+ENR,Consumer Non-Durables
+CSX,Large
+EW,Healthcare
+EP,Public Utility
+BTU,Energy
+ABNJ,Finance
+ALGT,Transportation
+ALGN,Growth
+ABT,Large
+BTI,Consumer Non-Durables
+MFNC,Value
+AGII,Finance
+LUV,Transportation
+MUR,Energy
+ATO,Value
+IN,Mid
+RGR,Consumer Durables
+HFBC,Value
+ATW,Energy
+ISH,Small
+ATR,Basic Industries
+CBSH,Finance
+UTX,Capital Goods
+ASR,Transportation
+LANC,Consumer Non-Durables
+CSBK,Finance
+ECLP,Healthcare
+HTGC,Small
+SEE,Basic Industries
+EXPD,Transportation
+IMA,Healthcare
+NCX,Basic Industries
+UNS,Public Utility
+CRWS,Basic Industries
+FRD,Basic Industries
+FRM,Energy
+CLC,Basic Industries
+FRT,Mid
+HOC,Energy
+FRX,Large
+PDC,Energy
+KG,Mid
+AMAT,Growth
+ITC,Public Utility
+INFA,Mid
+KEX,Transportation
+AEE,Large
+ITT,Value
+COBH,Growth
+HVT,Consumer Durables
+UNP,Transportation
+SWK,Consumer Durables
+PATR,Transportation
+SWM,Value
+DD,Value
+ANSS,Mid
+SWY,Consumer Services
+ABII,Mid
+CRK,Energy
+DV,Consumer Services
+DT,Public Utility
+GEOY,Small
+BIIB,Growth
+POR,Public Utility
+MGEE,Public Utility
+PCG,Public Utility
+D,Large
+VASC,Healthcare
+TIBX,Technology
+CWT,Mid
+VCO,Consumer Non-Durables
+EHTH,Growth
+RBC,Value
+DHR,Large
+RBA,Capital Goods
+AJG,Finance
+MCD,Consumer Services
+OTE,Public Utility
+IPCR,Mid
+DO,Growth
+PKOH,Energy
+CUB,Capital Goods
+AXR,Consumer Durables
+EXC,Public Utility
+CPBY,Consumer Services
+CVCY,Finance
+AES,Public Utility
+CKH,Energy
+SRCL,Capital Goods
+AXB,Transportation
+CVCO,Consumer Durables
+PAC,Transportation
+ULBI,Capital Goods
+BA,Value
+IWA,Consumer Services
+AMSG,Large
+AMSF,Finance
+DEPO,Healthcare
+RIO,Basic Industries
+HSP,Healthcare
+ADI,Large
+CNAF,Growth
+GPN,Technology
+ARJ,Value
+IAG,Basic Industries
+THS,Consumer Non-Durables
+WEN,Consumer Services
+GPC,Consumer Durables
+THO,Consumer Durables
+BNI,Large
+KNX,Transportation
+HAS,Consumer Non-Durables
+FCAL,Small
+PHI,Public Utility
+LNDC,Consumer Non-Durables
+LEG,Consumer Durables
+PHG,Consumer Durables
+BRCM,Growth
+OIS,Energy
+SPEC,Capital Goods
+EME,Capital Goods
+AEP,Large
+MMLP,Transportation
+CRY,Growth
+FDO,Consumer Services
+FDP,Consumer Non-Durables
+FDS,Mid
+SWKS,Consumer Durables
+CTAS,Consumer Non-Durables
+EMS,Value
+FDX,Transportation
+ACGL,Mid
+DDUP,Technology
+ITWO,Value
+PX,Basic Industries
+WNI,Consumer Non-Durables
+GEF,Basic Industries
+FFBC,Small
+PM,Consumer Non-Durables
+EFX,Technology
+CBNJ,Finance
+MHK,Consumer Durables
+STRZ,Consumer Services
+MON,Large
+ALTR,Technology
+ETR,Public Utility
+DVN,Energy
+BCH,Finance
+CIB,Value
+BCE,Large
+DVA,Large
+GWW,Capital Goods
+HNR,Small
+COG,Energy
+GWR,Transportation
+ETN,Consumer Durables
+COL,Large
+DVR,Energy
+HWK,Value
+OLN,Basic Industries
+RYAAY,Transportation
+CASS,Finance
+AMWD,Consumer Durables
+ADGF,Consumer Durables
+WERN,Transportation
+HEW,Consumer Services
+SRE,Public Utility
+CA,Growth
+BCPC,Basic Industries
+CW,Capital Goods
+CV,Growth
+CHRW,Transportation
+TISI,Energy
+HUBG,Value
+MSM,Mid
+GNTX,Consumer Durables
+HCBK,Large
+PLL,Capital Goods
+WVVI,Consumer Non-Durables
+CVX,Value
+AMEN,Growth
+EIX,Value
+AMED,Value
+FHC,Consumer Non-Durables
+AIR,Value
+INSP,Small
+LOV,Consumer Services
+EIG,Growth
+DIT,Value
+CVD,Consumer Services
+DIS,Large
+SPH,Value
+NSC,Large
+PPO,Basic Industries
+AYE,Public Utility
+MTZ,Capital Goods
+MTX,Basic Industries
+CNMD,Mid
+IP,Basic Industries
+IBOC,Mid
+IT,Mid
+FUJI,Consumer Non-Durables
+LVB,Consumer Durables
+ELNK,Technology
+MTD,Mid
+ARP,Value
+MPAA,Consumer Durables
+MIDD,Consumer Durables
+CSCO,Large
+PWX,Transportation
+ESEA,Transportation
+EBS,Growth
+RCKB,Technical
+CSCX,Growth
+APSG,Technology
+HBI,Consumer Non-Durables
+CPSI,Technology
+BBND,Capital Goods
+HBE,Technology
+EPR,Mid
+TIS,Basic Industries
+TIVO,Consumer Services
+CCL,Large
+BP,Value
+CCK,Basic Industries
+GPRO,Healthcare
+CCC,Growth
+PII,Consumer Durables
+RNOW,Ownership
+UIL,Public Utility
+SXT,Basic Industries
+HSII,Value
+MYE,Consumer Durables
+SYKE,Consumer Services
+DWRI,Consumer Durables
+DAR,Consumer Non-Durables
+WMS,Consumer Durables
+CQB,Consumer Non-Durables
+AXYS,Growth
+WMI,Capital Goods
+ISCA,Consumer Services
+HOFT,Consumer Durables
+SVT,Value
+OI,Basic Industries
+ARQL,Growth
+KMT,Basic Industries
+GXP,Public Utility
+ISLN,Small
+KAI,Value
+FLY,Transportation
+MWV,Basic Industries
+ESV,Energy
+DEP,Energy
+RIVR,Finance
+CFBK,Value
+RHT,Technology
+AAON,Capital Goods
+FLL,Consumer Services
+FLO,Consumer Non-Durables
+E,Value
+GTXI,Small
+HE,Public Utility
+GETI,Capital Goods
+AG,Capital Goods
+ICFI,Consumer Services
+AME,Mid
+ROG,Capital Goods
+NWE,Value
+PTV,Basic Industries
+GLW,Large
+OSG,Transportation
+ODFL,Transportation
+WGOV,Capital Goods
+CFFN,Mid
+BDK,Consumer Durables
+CJR,Consumer Services
+VITA,Healthcare
+UPS,Transportation
+VSEC,Capital Goods
+AMPH,Value
+AVP,Large
+LCUT,Consumer Durables
+AVD,Basic Industries
+AVB,Mid
+HOS,Energy
+CPWR,Mid
+NEM,Basic Industries
+FOSL,Consumer Non-Durables
+ACN,Growth
+ACAT,Consumer Durables
+SUR,Finance
+ACU,Value
+SUP,Consumer Durables
+JBLU,Transportation
+JCTCF,Consumer Durables
+IDA,Public Utility
+BKE,Mid
+DHT,Transportation
+IBM,Technology
+RRC,Energy
+BKI,Basic Industries
+SOHU,Consumer Services
+CGX,Value
+DMLP,Energy
+NR,Value
+MTXX,Consumer Non-Durables
+CGT,Mid
+SKYW,Transportation
+ORLY,Consumer Durables
+DNA,Large
+ARTG,Growth
+SJR,Consumer Services
+MIND,Energy
+ELY,Consumer Durables
+RENT,Consumer Services
+HUSA,Energy
+ICON,Consumer Non-Durables
+BRNC,Energy
+WIN,Public Utility
+BOOM,Basic Industries
+BRC,Mid
+CMTL,Technology
+TWC,Consumer Services
+DTPI,Value
+AZN,Large
+AZO,Growth
+AZZ,Energy
+MSA,Mid
+TXI,Basic Industries
+SGP,Large
+TM,Consumer Durables
+ALSK,Technology
+QSII,Technical
+CNW,Transportation
+SHOR,Public Utility
+ESS,Finance
+TNP,Transportation
+CNP,Public Utility
+ESP,Capital Goods
+FPL,Public Utility
+MLHR,Value
+AU,Basic Industries
+CNC,Value
+TNC,Value
+AFSI,Finance
+CNL,Public Utility
+ESL,Value
+ESI,Mid
+CNI,Large
+EBIX,Growth
+NKE,Consumer Non-Durables
+MRTN,Transportation
+DXR,Consumer Non-Durables
+THOR,Healthcare
+KGC,Basic Industries
+PNRG,Energy
