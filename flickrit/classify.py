@@ -6,6 +6,7 @@ import flickrapi
 import EXIF 
 
 ORIGINAL_TIME = re.compile("^(\d{4})[^\d](\d{2})[^\d](\d{2})\s.+")
+POSSIBLE_DUP = re.compile("^(.+)\_[1-9]$")
 PHOTO_FORMATS = ['JPEG', 'JPG', 'CR2']
 FLICKR_SUPPORTED_FORMATS = ['JPEG', 'JPG']
 
@@ -22,7 +23,7 @@ def report_status(progress, done):
     
 def init_flickr():
   flickr = flickrapi.FlickrAPI(API_KEY, API_SECRET)
-  (token, frob) = flickr.get_token_part_one(perms='write')
+  (token, frob) = flickr.get_token_part_one(perms='delete')
   if not token:
     raw_input("Press ENTER after you authorized this program")
   flickr.get_token_part_two((token, frob))
@@ -167,23 +168,48 @@ def sync_flickr(flickr):
     else:
       pass
       
+def delete_dups_flickr(flickr, start_year):
+  cached = {}
+  for photo in flickr.walk(extras='date_taken', user_id="me", sort="date-taken-asc", 
+      min_taken_date="%s-01-01" % start_year, max_taken_date="%s-01-01" % (start_year + 1)):
+    original_title = photo.get('title').lower()
+    photo_id = photo.get('id')
+    date_taken = photo.get('datetaken')
+    m = POSSIBLE_DUP.match(original_title)
+    if m:
+      title = m.group(1)
+    else:
+      title = original_title
+
+    if cached.has_key(title):
+      if date_taken in cached[title]:
+        print "Found dup %s (%s) taken at %s" % (original_title, photo_id, date_taken)
+        flickr.photos_delete(photo_id=photo_id)
+      else:
+        cached[title].append(date_taken)
+        # print "Append new entry for %s - %s taken at different time %s - %s" % (original_title, title, cached[title], date_taken)
+    else:
+      cached[title] = [date_taken]
+
 if __name__ == '__main__':
 
   upload = False
   sync = False
   classify = False
   remove_original = False
+  deletedup = False
   tag = None
   upload_root = os.environ['UPLOAD_ROOT']
 
   try:
-    options, remainder = getopt.gnu_getopt(sys.argv[1:], 'd:t:curs',
+    options, remainder = getopt.gnu_getopt(sys.argv[1:], 'd:t:cursx:',
                                                ['sourcedir=',
                                                 'tag=',
                                                 'classify',
                                                 'upload',
                                                 'removeoriginal',
-                                                'sync'
+                                                'sync',
+                                                'deletedup'
                                                 ])
     for opt, arg in options :       
       if opt in ('-d', '--sourcedir'):
@@ -198,6 +224,9 @@ if __name__ == '__main__':
         upload = True
       elif opt in ('-s', '--sync'):
         sync = True
+      elif opt in ('-x', '--deletedup'):
+        deletedup = True
+        start_year = int(arg)
 
   except getopt.GetoptError, e:
     print e
@@ -205,6 +234,8 @@ if __name__ == '__main__':
 
   if sync:
     sync_flickr(init_flickr())
+  elif deletedup:
+    delete_dups_flickr(init_flickr(), start_year)
   else:
     if (not classify) and (not upload):
       print "No operation specified"
