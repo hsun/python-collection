@@ -5,8 +5,14 @@ import os, os.path, sys, shutil
 import flickrapi
 import EXIF 
 
-api_key = os.environ['FLICKR_KEY']
-api_secret = os.environ['FLICKR_SECRET']
+ORIGINAL_TIME = re.compile("^(\d{4})[^\d](\d{2})[^\d](\d{2})\s.+")
+PHOTO_FORMATS = ['JPEG', 'JPG', 'CR2']
+FLICKR_SUPPORTED_FORMATS = ['JPEG', 'JPG']
+
+API_KEY = os.environ['FLICKR_KEY']
+API_SECRET = os.environ['FLICKR_SECRET']
+ALBUM_ROOT = os.environ['ALBUM_ROOT']
+SYNC_ROOT = os.environ['SYNC_ROOT']
 
 def report_status(progress, done):
   if done:
@@ -15,16 +21,20 @@ def report_status(progress, done):
     print "At %s%%" % progress
     
 def init_flickr():
-  flickr = flickrapi.FlickrAPI(api_key, api_secret)
+  flickr = flickrapi.FlickrAPI(API_KEY, API_SECRET)
   (token, frob) = flickr.get_token_part_one(perms='write')
   if not token:
     raw_input("Press ENTER after you authorized this program")
   flickr.get_token_part_two((token, frob))
   return flickr
 
-ALBUM_ROOT = "/home/sunh11373/Pictures/album"
-SYNC_ROOT = "/home/sunh11373/Pictures/syncflickr"
-ORIGINAL_TIME = re.compile("^(\d{4})[^\d](\d{2})[^\d](\d{2})\s.+")
+def is_photo_file(photo):
+  ext = photo[photo.rindex('.') + 1:] if '.' in photo else ""
+  return ext in PHOTO_FORMATS
+
+def is_flickr_supported_file(photo):
+  ext = photo[photo.rindex('.') + 1:] if '.' in photo else ""
+  return ext in FLICKR_SUPPORTED_FORMATS
 
 def get_photo_original_date(photo):
   f = open(photo, 'rb')
@@ -93,16 +103,9 @@ def get_classified_file(photo):
 
   if os.path.exists(classified_file_path):
     if os.path.exists(classified_file):
-      if not is_same_photo(photo, classified_file):
-        if not is_bad_file(classified_file):
-          classified_file = get_another_filename(classified_file)
-        else:
-          # override bad file
-          pass
-      else:
-        # don't override same file
-        print "Skip duplicate photo %s" % photo
-        return None
+      # don't override same file
+      print "Skip duplicate photo %s" % photo
+      return None
   else:
     os.makedirs(classified_file_path)    
   return classified_file
@@ -126,32 +129,30 @@ def walk_it(args, work_dir, photo_files):
     if not os.path.isfile(photo):
       continue
 
-    if photo.upper().endswith(".JPEG") \
-        or photo.upper().endswith(".CR2") \
-        or photo.upper().endswith(".JPG"):
-      try:
-        if classify:
-          classified_file = get_classified_file(photo)
-          if classified_file:
-            classify_photo(photo, classified_file, delete_original)
-        else:
-          classified_file = photo
+    if not is_photo_file(photo.upper()):
+      continue
+
+    try:
+      if classify:
+        classified_file = get_classified_file(photo)
         if classified_file:
-          if upload:
-            if classified_file.upper().endswith(".CR2"):
-              print "Skip %s as flickr does not support this format." % classified_file
-            else:
-              if is_already_uploaded(classified_file):
-                print "%s is already uploaded" % classified_file
-              else:
-                print "Start uploading %s" % classified_file
-                flickr.upload(filename=classified_file, is_public=0, tags=tag, callback=report_status)
-                update_sync_file(classified_file)
-      except Exception, e:
-        print "Failed to process photo %s due to %s." % (photo, str(e))
-        raise e
-    else:
-      print "Skip non-photo file %s" % photo
+          classify_photo(photo, classified_file, delete_original)
+      else:
+        classified_file = photo
+
+      if classified_file and upload:
+        if not is_flickr_supported_file(classified_file.upper()):
+          print "Skip %s as flickr does not support this format." % classified_file
+        else:
+          if is_already_uploaded(classified_file):
+            print "%s is already uploaded" % classified_file
+          else:
+            print "Start uploading %s" % classified_file
+            flickr.upload(filename=classified_file, is_public=0, tags=tag, callback=report_status)
+            update_sync_file(classified_file)
+    except Exception, e:
+      print "Failed to process photo %s due to %s." % (photo, str(e))
+      raise e
 
 def sync_flickr(flickr):
   for photo in flickr.walk(extras='date_taken', user_id="me"):
@@ -173,7 +174,7 @@ if __name__ == '__main__':
   classify = False
   remove_original = False
   tag = None
-  work_dir = "/home/sunh11373/Pictures/staging"
+  upload_root = os.environ['UPLOAD_ROOT']
 
   try:
     options, remainder = getopt.gnu_getopt(sys.argv[1:], 'd:t:curs',
@@ -186,7 +187,7 @@ if __name__ == '__main__':
                                                 ])
     for opt, arg in options :       
       if opt in ('-d', '--sourcedir'):
-        work_dir = arg
+        upload_root = arg
       elif opt in ('-t', '--tag'):
         tag = arg
       elif opt in ('-r', '--removeoriginal'):
@@ -205,12 +206,9 @@ if __name__ == '__main__':
   if sync:
     sync_flickr(init_flickr())
   else:
-    if (not classify) and (not upload) and (not sync):
+    if (not classify) and (not upload):
       print "No operation specified"
-      sys.exit(2)
-    if (not classify) and (not work_dir.startswith(ALBUM_ROOT)):
-      print "Upload only must start in album" 
       sys.exit(2)
 
     args = (init_flickr(), classify, upload, tag, remove_original)
-    os.path.walk(work_dir, walk_it, args)
+    os.path.walk(upload_root, walk_it, args)
