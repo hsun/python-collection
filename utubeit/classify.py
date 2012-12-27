@@ -51,8 +51,8 @@ def init_utube():
   yt_service.ProgrammaticLogin()
   return yt_service
 
-ALBUM_ROOT = "/home/sunh11373/Videos/shelf"
-SYNC_ROOT = "/home/sunh11373/Videos/syncutube"
+ALBUM_ROOT = os.environ['ALBUM_ROOT']
+SYNC_ROOT = os.environ['SYNC_ROOT']
 
 def get_video_original_date(video):
   info = kaa.metadata.parse(video)
