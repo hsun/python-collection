@@ -7,6 +7,10 @@ import gdata.youtube
 import gdata.youtube.service
 import kaa.metadata
 
+def dump(obj):
+  for attr in dir(obj):
+    print "obj.%s = %s" % (attr, getattr(obj, attr))
+
 def PrintVideoFeed(feed):
   for entry in feed.entry:
       PrintEntryDetails(entry)
@@ -56,7 +60,10 @@ SYNC_ROOT = os.environ['SYNC_ROOT']
 
 def get_video_original_date(video):
   info = kaa.metadata.parse(video)
-  d = datetime.date.fromtimestamp(info.timestamp)
+  if info:
+    d = datetime.date.fromtimestamp(info.timestamp)
+  else:
+    d = datetime.date.fromtimestamp(os.path.getctime(video))
   return d.year, d.month, d.day
 
 def is_same_video(original, existing):
@@ -179,9 +186,11 @@ def walk_it(args, work_dir, video_files):
       continue
 
     if video.upper().endswith(".AVI")\
+        or video.upper().endswith(".MP4") \
         or video.upper().endswith(".MMPG") \
         or video.upper().endswith(".MMODD"):
       try:
+	print "Processing video: %s" % video
         if classify:
           classified_file = get_classified_file(video)
           if classified_file:
@@ -190,7 +199,7 @@ def walk_it(args, work_dir, video_files):
           classified_file = video
         if classified_file:
           if upload:
-            if not classified_file.upper().endswith(".AVI"):
+            if classified_file.upper().endswith(".xxx"):
               print "Skip %s as utube does not support this format." % classified_file
             else:
               if is_already_uploaded(classified_file):
@@ -209,21 +218,27 @@ def sync_utube(utube):
   uri = 'http://gdata.youtube.com/feeds/api/users/sunh11373/uploads'
   feed = utube.GetYouTubeVideoFeed(uri)
   for entry in feed.entry:
-    dev_tags = entry.GetDeveloperTags()
-    if dev_tags:
-      date_taken, vfile = dev_tags
-    else:
-      print "Skip this video. ", entry
-      continue
+    try:
+      dev_tags = entry.GetDeveloperTags()
+      if dev_tags:
+        date_taken, vfile = dev_tags
+	#dump(date_taken)
+	#dump(vfile)
+      else:
+        print "Skip this video. ", entry
+        continue
 
-    sync_path = os.path.join(SYNC_ROOT, *date_taken.split("-"))
-    if not os.path.exists(sync_path):
-      os.makedirs(sync_path)
-    sync_file = os.path.join(sync_path, vfile)
-    if not os.path.exists(sync_file):
-      create_sync_file(sync_file)
-    else:
-      pass
+      sync_path = os.path.join(SYNC_ROOT, *date_taken.text.split("-"))
+      if not os.path.exists(sync_path):
+        os.makedirs(sync_path)
+      sync_file = os.path.join(sync_path, vfile.text)
+      if not os.path.exists(sync_file):
+        create_sync_file(sync_file)
+      else:
+        pass
+    except Exception, e:
+      print "Skip video as it does not have developer tag and caused error: %s" % e
+      PrintEntryDetails(entry)
       
 if __name__ == '__main__':
 
