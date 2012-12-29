@@ -3,6 +3,7 @@
 import getopt, re
 import os, os.path, sys, shutil
 import datetime
+import hashlib
 import gdata.youtube
 import gdata.youtube.service
 import kaa.metadata
@@ -175,17 +176,31 @@ def upload_video(utube, video):
   new_entry = utube.InsertVideoEntry(video_entry, video_file_location)
   print "Uploaded video: ", new_entry
 
+def adjust_file_name(work_dir, video_file):
+  fn, fext = os.path.splitext(video_file)
+  if len(fn) <= 10:
+    return video_file
+
+  m = hashlib.md5()
+  m.update(fn)
+  adjusted_video_file = m.hexdigest()[0:10] + fext
+  os.rename(os.path.join(work_dir, video_file), os.path.join(work_dir, adjusted_video_file))
+  return adjusted_video_file
+
 def walk_it(args, work_dir, video_files):
   
   utube, classify, upload, tag, delete_original = args
   print "Start to process %d videos in %s" % (len(video_files), work_dir)
 
   for video_file in video_files:
-    video = os.path.join(work_dir, video_file)
+
+    adjusted_video_file = adjust_file_name(work_dir, video_file)
+    video = os.path.join(work_dir, adjusted_video_file)
     if not os.path.isfile(video):
       continue
 
     if video.upper().endswith(".AVI")\
+        or video.upper().endswith(".3GP") \
         or video.upper().endswith(".MP4") \
         or video.upper().endswith(".MMPG") \
         or video.upper().endswith(".MMODD"):
